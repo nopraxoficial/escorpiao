@@ -1,5 +1,31 @@
 [
   {
+    "id": "buzioscriaprogramamunicipalparaprevencaodeacidentescomescorpioes",
+    "titulo": "Búzios cria programa municipal para prevenção de acidentes com escorpiões - Prensa de Babel",
+    "descricao": "Búzios cria programa municipal para prevenção de acidentes com escorpiões  Prensa de Babel",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUU1WSkFXODF1dDcyTkpFVUxYYWFIc2s1cWg5RngwdWp3S0RyUDZxR0J1dkFGMDlfNk9nRVVQLUtGSThLWmJJeXRTb1RMcGdubl9relFPQUxvLXNlNUJnZDAxdHFZaGcyd0ZUeVl2M21EajVmbUo5MklRYVNDa2dBMlJHUQ?oc=5",
+    "data": "18/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "RJ",
+    "cidade": "Búzios",
+    "termo_busca": "escorpião amarelo"
+  },
+  {
+    "id": "vigilanciaambientaldeserranegrareforcaorientacoesparaprevencaodeacidentescomescorpioes",
+    "titulo": "Vigilância Ambiental de Serra Negra reforça orientações para prevenção de acidentes com escorpiões - Circuito de Notícias",
+    "descricao": "Vigilância Ambiental de Serra Negra reforça orientações para prevenção de acidentes com escorpiões  Circuito de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdXVtelVSazFPLUtKZlY1aWRYd2pNOV9iYUFNcWNrZUxaMmxjcGRBSW4zTzAxNGJaWFRacmw3OGU1N182VXBiNUZqYm5hemJWVUxCRWNmZ1ZlT1Z6dEQ3X0ZfTHJwdm9BMnJpM2pnMHBrbGNvakw1MDNiYzF5UDRQZ3NoTUVEbHJ6cDZaRDlBQXRha0pUZGhfMFlRMmJ6Q1pGbXU4c0o1TGEyNlA4UXI3TE9BQjIxTHROM2VTUmhUbkVKV2piUnNFNHZOUUdEelBuRm5Jcg?oc=5",
+    "data": "18/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Serra Negra",
+    "termo_busca": "escorpiões vigilância ambiental"
+  },
+  {
     "id": "casosdepicadasdeescorpiaosobem39emummesechegama237noano",
     "titulo": "Casos de picadas de escorpião sobem 39% em um mês e chegam a 237 no ano - portalporque.com.br",
     "descricao": "Casos de picadas de escorpião sobem 39% em um mês e chegam a 237 no ano  portalporque.com.br",
@@ -1183,6 +1209,19 @@
     "termo_busca": "escorpiões Brasil"
   },
   {
+    "id": "criancade6anosepicadaporescorpiaoescondidoemuniformeescolaremcastilho",
+    "titulo": "Criança de 6 anos é picada por escorpião escondido em uniforme escolar em Castilho - Região Noroeste",
+    "descricao": "Criança de 6 anos é picada por escorpião escondido em uniforme escolar em Castilho  Região Noroeste",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGNuQnBXOUR4Mzc1ZkxaaXpNZ01yVEJMUUl1cGk1eFYxUlpuQ3R4aXMzOXVlTk5sSnZDakFxWWk1VnZhT1lkd0J6bzFHWlN4U3dfM1Q4VlVaTnhKRGdyQ2pPNzY1ODZzR3IyQXZySzFMTDRtWHF1QS1PNi1GSnQ2NTJKMDZnVF85SWowZEVjV2ZDaXZVb1VXU0RyNW9pdkhXNWlubEI5cEtrUl82alI4?oc=5",
+    "data": "16/04/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Castilho",
+    "termo_busca": "criança escorpião"
+  },
+  {
     "id": "maisde100escorpioessaocapturadosemumunicocondominionagrandeflorianopolisvideo",
     "titulo": "Mais de 100 escorpiões são capturados em um único condomínio na Grande Florianópolis; VÍDEO - G1",
     "descricao": "Mais de 100 escorpiões são capturados em um único condomínio na Grande Florianópolis; VÍDEO  G1",
@@ -2275,6 +2314,19 @@
     "termo_busca": "escorpiões vigilância ambiental"
   },
   {
+    "id": "criancade2anospicadaporescorpiaodentrodecasadeixautidohcmaposriscodemorte",
+    "titulo": "Criança de 2 anos picada por escorpião dentro de casa deixa UTI do HCM após risco de morte - Tanabi Noticias",
+    "descricao": "Criança de 2 anos picada por escorpião dentro de casa deixa UTI do HCM após risco de morte  Tanabi Noticias",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEUyRmg3ZXp4d0pidUQwX0pBdUN0ZTE4Mnk4ZUpIQjhTQVRPXzJsTmtCSXFFTDZRRWI1alUxa29RRlItUTdjOXFNTmcwQW44RjFCNl9hUk1kdGpXV2x2TU1PQVRYMnQ4a1JOTnB1NjhSampzdTRjT2wtY1JXSERjUUcxTkdjS0pMdXo0cncydjJIYWh1Y25ZZ0U5WUtWOS1kcEpvZS1oTlJVbXpYdTdYTTVQa0hQamQ5YlVscmhkNHE1XzZRQkN0N2I2Mi1iUQ?oc=5",
+    "data": "31/03/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Tanabi",
+    "termo_busca": "criança escorpião"
+  },
+  {
     "id": "meninode2anosquefoipicadoporescorpiaodentrodecasatemaltadohospital",
     "titulo": "Menino de 2 anos que foi picado por escorpião dentro de casa tem alta do hospital - G1",
     "descricao": "Menino de 2 anos que foi picado por escorpião dentro de casa tem alta do hospital  G1",
@@ -2637,6 +2689,19 @@
     "estado": "AL",
     "cidade": "Maceio",
     "termo_busca": "vigilância escorpião"
+  },
+  {
+    "id": "capitalalagoanaregistra710casosdepicadasdeescorpiaonesteano",
+    "titulo": "Capital alagoana registra 710 casos de picadas de escorpião neste ano - Tribuna Hoje",
+    "descricao": "Capital alagoana registra 710 casos de picadas de escorpião neste ano  Tribuna Hoje",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlFXVnllZkExVkRkbmY1TURxOFExemFQa1pfUThVeGtHTTZUaXdIdlh0NnFXTXRudWQ2UXoyd0NlZWQtOHc2SF9sMkpWQ1d3c19mM2dONWpobGNpb01WUlgtckNVR29uanZ3ZjhueXBmWmQ4Z3NSWTBVX3VTWV9zUHZ1eXJuaUJ5NmRpT0VKVGlnZklmRk5Dc0YyLTVaZmZ6cER4VE0wWVVPcWZqZk1hQ2JoZG9fTmktbUtpT0FKc096VTJG?oc=5",
+    "data": "15/03/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "vigilância sanitária escorpião"
   },
   {
     "id": "escorpioeslideramacidentescomanimaispeconhentosnomaem2025saibaoquefazeremcasodepicada",
@@ -3211,6 +3276,19 @@
     "termo_busca": "prevenção escorpiões"
   },
   {
+    "id": "estadoalertaparaaumentodeacidentescomescorpioesereforcamedidasdeprevencao",
+    "titulo": "Estado alerta para aumento de acidentes com escorpiões e reforça medidas de prevenção - Portal de Beltrão",
+    "descricao": "Estado alerta para aumento de acidentes com escorpiões e reforça medidas de prevenção  Portal de Beltrão",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTlGaHpwUEhBVVdacWNDbGU5cl9oTWtIZE5xcDBlZjlSenBvRmVlOWFOQ0VvWm5lbDBHS01KTjBUZG5xb3B6dFBfTExsUU9SajVRVDBCVnVkTVltMW5LTGJweHhjdENYQ0hWeE13WGF5RG1hYjc5Nko4Mlo3S0MyMXZWdzBZQlFmdktDaElhV0lYSmEwc2NPUFlTb18wb25lRENINjdOMFFPSksxUnRDRW45YXRjQlQxRnVMUUN4d3dxZlNnWS1HLXhfTFBvZm9D?oc=5",
+    "data": "17/02/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "controle de escorpiões"
+  },
+  {
     "id": "saudedoparanamantemalertaefazorientacoesparaevitaracidentescomescorpioes",
     "titulo": "Saúde do Paraná mantém alerta e faz orientações para evitar acidentes com escorpiões - CBN Londrina",
     "descricao": "Saúde do Paraná mantém alerta e faz orientações para evitar acidentes com escorpiões  CBN Londrina",
@@ -3339,6 +3417,19 @@
     "estado": "SC",
     "cidade": "Palmeira",
     "termo_busca": "infestação escorpiões"
+  },
+  {
+    "id": "ondetomarsoroparapicadadeescorpiaoemuberlandia",
+    "titulo": "📍 Onde tomar soro para picada de escorpião em Uberlândia? - G1",
+    "descricao": "📍 Onde tomar soro para picada de escorpião em Uberlândia?  G1",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYVJLQU5mSFpyQWJDNjhKTkttamZFRnFHZjAwOE1Hb1FvQXpqNDIweTQ1ZllIeWRwM0RlTDBGaC1FT1l2N3V1ZFZtTTFKYVhXLWdwd1U1QTA0Qmx4b3NUTjZiTEFDUUxkd1RsTVllWTZJQU9IcWJQSS0ya1NsaHYxaTRQcFBLbFdxTUVTVlhsRFBTZ0V0UU0wMWgwVWMwamhQbW5CQ3pVNmFKZ2xxdDdKbHF5VDd4RFZ1SGJTNDNFRjVQOTAtWU1BdGNOVW5uNUNEWVJLdk5FckhHNzFLRFNPN0dCLTFQcHhUaVZXQUtyNA?oc=5",
+    "data": "12/02/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Uberlandia",
+    "termo_busca": "picada escorpião"
   },
   {
     "id": "vigilanciaemsauderealizaacoeseducativasetrabalhoemcampoparaprevencaodeacidentescomescorpioes",
