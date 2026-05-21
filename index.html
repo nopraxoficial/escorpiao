@@ -9,7 +9,7 @@
 *{margin:0;padding:0;box-sizing:border-box}
 
 body{
-    background:linear-gradient(135deg,#081226,#0f172a);
+    background:linear-gradient(135deg,#0a0a0a,#1a1a1a);
     color:#e2e8f0;
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
     min-height:100vh;
@@ -19,22 +19,22 @@ body{
 .container{max-width:1200px;margin:0 auto}
 
 .header{text-align:center;margin-bottom:18px}
-.header h1{font-size:1.8rem;margin-bottom:12px}
+.header h1{font-size:1.8rem;margin-bottom:12px;color:#FFB000}
 
 .info-box{
-    background:#132347;
-    border:1px solid rgba(96,165,250,.25);
+    background:#1a1a1a;
+    border:1px solid rgba(255,176,0,.25);
     border-radius:10px;
     padding:12px;
     margin-bottom:10px;
 }
 
-.info-box strong{color:#60a5fa}
+.info-box strong{color:#FFB000}
 
 .schedule-info{
-    background:rgba(16,185,129,.12);
-    border:1px solid rgba(16,185,129,.35);
-    color:#86efac;
+    background:rgba(255,176,0,.12);
+    border:1px solid rgba(255,176,0,.35);
+    color:#FFB000;
     border-radius:8px;
     padding:9px;
     font-size:.85rem;
@@ -49,8 +49,8 @@ body{
 }
 
 .card{
-    background:#0f1d3a;
-    border:1px solid rgba(148,163,184,.18);
+    background:#1a1a1a;
+    border:1px solid rgba(255,176,0,.18);
     border-radius:10px;
     padding:10px 8px;
     text-align:center;
@@ -60,12 +60,12 @@ body{
 
 .card:hover{
     transform:translateY(-2px);
-    border-color:#3b82f6;
+    border-color:#FFB000;
 }
 
 .card-title{
     font-size:1rem;
-    color:#60a5fa;
+    color:#FFB000;
     font-weight:bold;
     margin-bottom:4px;
 }
@@ -73,7 +73,7 @@ body{
 .card-number{
     font-size:1.45rem;
     font-weight:bold;
-    color:#fbbf24;
+    color:#FFB000;
     line-height:1.2;
 }
 
@@ -88,11 +88,11 @@ body{
 }
 
 .filters{
-    background:#0f1d3a;
+    background:#1a1a1a;
     border-radius:10px;
     padding:14px;
     margin-bottom:18px;
-    border:1px solid rgba(148,163,184,.15);
+    border:1px solid rgba(255,176,0,.15);
 }
 
 .filters-grid{
@@ -106,9 +106,15 @@ input,select{
     padding:10px;
     border:none;
     border-radius:8px;
-    background:#132347;
+    background:#0a0a0a;
     color:white;
     font-size:.9rem;
+    border:1px solid #333;
+}
+
+input:focus, select:focus{
+    outline:none;
+    border-color:#FFB000;
 }
 
 button{
@@ -127,6 +133,7 @@ button{
 .news-title-section{
     font-size:1.2rem;
     margin-bottom:12px;
+    color:#FFB000;
 }
 
 .news-list{
@@ -136,14 +143,14 @@ button{
 }
 
 .news-card{
-    background:#0f1d3a;
-    border-left:5px solid #f59e0b;
+    background:#1a1a1a;
+    border-left:5px solid;
     border-radius:10px;
     padding:15px;
 }
 
 .news-card.grave{border-left-color:#ef4444}
-.news-card.moderada{border-left-color:#f59e0b}
+.news-card.moderada{border-left-color:#FFB000}
 .news-card.leve{border-left-color:#10b981}
 
 .news-header{
@@ -155,7 +162,7 @@ button{
 }
 
 .news-title{
-    color:#60a5fa;
+    color:#FFB000;
     font-size:1rem;
     font-weight:bold;
     line-height:1.35;
@@ -170,7 +177,7 @@ button{
 }
 
 .badge.leve{background:#10b981;color:black}
-.badge.moderada{background:#f59e0b;color:black}
+.badge.moderada{background:#FFB000;color:black}
 .badge.grave{background:#ef4444;color:white}
 
 .news-description{
@@ -191,13 +198,17 @@ button{
 
 .news-link{
     display:inline-block;
-    background:#2563eb;
-    color:white;
+    background:#FFB000;
+    color:#000;
     padding:8px 12px;
     border-radius:7px;
     text-decoration:none;
     font-weight:bold;
     font-size:.85rem;
+}
+
+.news-link:hover{
+    opacity:0.9;
 }
 
 .loading{
