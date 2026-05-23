@@ -936,6 +936,19 @@
     "termo_busca": "escorpião amarelo"
   },
   {
+    "id": "agenciadecomunicacao",
+    "titulo": "Agência de Comunicação - Casos de escorpiões acendem alerta: como a limpeza da casa ajuda a reduzir riscos - Estadão Blue Studio",
+    "descricao": "Agência de Comunicação - Casos de escorpiões acendem alerta: como a limpeza da casa ajuda a reduzir riscos  Estadão Blue Studio",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcDJrOFFUakllQndnUzhDd1BfTlBKWW1vRWhqVHFhaHlJV3VqdjdRMU9YWWs4eEd5cVN2bFdmYVNvRi04RGpEMmJfaThTYjEwOUhJWHA1VVJ0NEFKNDBCTV8zZlFVc1VZU0JJSGZzTVdDS3U5ZGtLYmFRWmZJUEZ0YldLaUEydnhSQTlFQXFyRU5SSTRlYlB5azhqZkFsaHZYU2xNd0g0bk16cm0teGJLal9fcFQ2dlIwSUJuQXV3ajducW1mcmxpNzM3SnF6WnpyUTlfaUx0NGtiT002TURSanY2MEpHVkMwYkxzRi1KWTlBMnJkWUhVVTJUSFE?oc=5",
+    "data": "23/04/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "alerta escorpiões"
+  },
+  {
     "id": "casosdeescorpiaoamareloacendemalertaemcriciuma",
     "titulo": "Casos de escorpião-amarelo acendem alerta em Criciúma - ND Mais",
     "descricao": "Casos de escorpião-amarelo acendem alerta em Criciúma  ND Mais",
@@ -2194,6 +2207,19 @@
     "fonte": "Google News",
     "estado": "SP",
     "cidade": "Conchal",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "sorocabaconfirmamortedeidosoporpicadadeescorpiao",
+    "titulo": "Sorocaba confirma morte de idoso por picada de escorpião - G1",
+    "descricao": "Sorocaba confirma morte de idoso por picada de escorpião  G1",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWGl3czc3VkFsTUJocGtWaE8zM0lXdHp3UXFMamdyQWo3TmFENXRtNlZQOWFVV1lVTWVhX2IxT0RiLXZ0d0M1ckstdFY5SnAtc1UwS3pRRERRclRjQWx4eGlCd09wQTBXSmU3bzc3RlBWSWZMQjlJQTh4Qks4QnZQaVQ0aTJ6UmRLRjdZa0N0VmltdTdFMTI5clJxUkRVR3lwRkpSMnluQUhxdkhfRDRZYnA5Y1plejgxcEs5a0ZDZzV3ellrVXpaYg?oc=5",
+    "data": "06/04/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Sorocaba",
     "termo_busca": "picada escorpião"
   },
   {
@@ -3611,6 +3637,19 @@
     "fonte": "Google News",
     "estado": "Não identificado",
     "cidade": "Não identificada",
+    "termo_busca": "criança escorpião"
+  },
+  {
+    "id": "bebedeoitomesesepicadoporescorpiaoemvotuporanga",
+    "titulo": "Bebê de oito meses é picado por escorpião em Votuporanga - Região Noroeste",
+    "descricao": "Bebê de oito meses é picado por escorpião em Votuporanga  Região Noroeste",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRWQ0amFNbVBDV0Jvc1YtdXJTNmF1cm1FUDJ3cG5DUjBiODItS0x0RGNQV1hUS1VUandjdV9yQnhOSkZLSEI3UkJ5RlNJcXFEVjYxODIwNnpkSHdEWjFiMnRwQ01yMUc5MUs2V1BTOUtXUWlFWHd6enhzNkZ3dzNUazJUT1d5ODc2T2c0QQ?oc=5",
+    "data": "19/02/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Votuporanga",
     "termo_busca": "criança escorpião"
   },
   {
