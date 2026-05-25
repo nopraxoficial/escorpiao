@@ -1,5 +1,57 @@
 [
   {
+    "id": "prefeituracapturacentenasdeescorpioeseemitealertavermelho",
+    "titulo": "Prefeitura captura centenas de escorpiões e emite alerta vermelho - Metrópoles",
+    "descricao": "Prefeitura captura centenas de escorpiões e emite alerta vermelho  Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWc2ajQyWjdTY25CVXk1X2hQbFBIZ1BlZEcwNkFHM0V3QXFPekozTF9kSXZJNGh6b0czREsxWlhwZ1FIS2xUZkM1aU5tbmJxVC1RTjNFR2hrenc3dGJMT3NyWFE5azJDTUF3cXBScXZ3cE5MNnpVMElGOFlDOGQ3VDZuLU5PMnY2dUtTVExBZml2ZVpNNlc4VDc5c3IwQXhU?oc=5",
+    "data": "25/05/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpiões Brasil"
+  },
+  {
+    "id": "criancaetransportadadehelicopteroapospicadadeescorpiao",
+    "titulo": "Criança é transportada de helicóptero após picada de escorpião - Correio Braziliense",
+    "descricao": "Criança é transportada de helicóptero após picada de escorpião  Correio Braziliense",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHJKMDkyZTEwUno1dmwtc2RZR1B5elBOYll1eDJNbjdPc18zZzBQUERqZW1ONUpaMm1IaVBmcWo3NUsxWEhpUWtVeXd2TWVvMDRLYkR0bDdRTzdJNkZaVzRXWVlNaHFkTmFVaEZnMGR5RTJWVDY5MEFObnZESVFBRFV5WlFSRzdVbmtYYlRhRm1VWGhHTkZoYndqTE00WnZHTGUwWGQ3WUVZb3U5VzBZTmxyaHJESkM1Y1Vob1BPWWE5R0pCQnNfSGw3S3HSAdIBQVVfeXFMT3NsdGxaY3ZJS18ySjRlcEJ0bHMta2hUMnMyeTlyeFlGRGZOX1UtN3g4R3RaOEotanpVOTB2LTlhWFh1b3p6cHVvTmpneEhEbzR5bG1IclE4N0pDNWJRVzItbmRCbVhLQ21aN0pKbnl5YnhTQjZqSlVvSGJvX3hSb0FNbHp3X1hpT19SM2FhRzF0MldjTm8zQjhHaXB3cW51RWZMQUJmNGI2Smp5aGxXYkpLbElwc0NMdGoxMDBmNFNMOW12eVRtZHBMeE43MFJPWThR?oc=5",
+    "data": "25/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "cidadenoescapturacentenasdeescorpioeseemitealertavermelho",
+    "titulo": "Cidade no ES captura centenas de escorpiões e emite alerta vermelho - A Gazeta",
+    "descricao": "Cidade no ES captura centenas de escorpiões e emite alerta vermelho  A Gazeta",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmxzdWJuUkVhbTJEMWZKWWVjNHdYTXlsSzVrNlhzT2R6U3E4Q0tZbW8xVU11Ml9UZ3hMRWdqZlp0aW05MFVVYlF2QlM1NS0xM1EzYnh1cFlHaWZwQjNSODZ6Q0Zfa3kwb21hSWc0NU9UOVdxT2JrZjBfcFVySWE1OE10Q1NYVVVZV3dEN3d0R2dLQmtWSnE0eDk1R3YtSmhLSndzVHZNT2lCSkpIdGU1b0FDWDRJN0x4aG9iTUp5VQ?oc=5",
+    "data": "25/05/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "aumentodeescorpioespreocupamoradoresempresidentekennedy",
+    "titulo": "Aumento de escorpiões preocupa moradores em Presidente Kennedy - Conexão Safra",
+    "descricao": "Aumento de escorpiões preocupa moradores em Presidente Kennedy  Conexão Safra",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk02MGdtLWlJRFlRUnZaai0yVmRPTlZ6ZUxwZ09EMlFNVER5dWFHUGxRM0ZmQjE0VXc1MWRVRmxnd2lJODBoN0JISWs2bTF0MkRQYWhIajRJRHJYX1IzQU9qaEZ6Q01KLVhZaGsyRjExRlBvZ2NmZ3hnNkM4ZEp6NF9zVTE3WTJLYkZiS242YklzalNUQ2M5ekZB?oc=5",
+    "data": "25/05/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "ES",
+    "cidade": "Presidente Kennedy",
+    "termo_busca": "captura de escorpiões"
+  },
+  {
     "id": "criancaelevadadehelicopteroaohospitalapospicadadeescorpiaovejavideo",
     "titulo": "Criança é levada de helicóptero ao hospital após picada de escorpião Veja vídeo - Metrópoles",
     "descricao": "Criança é levada de helicóptero ao hospital após picada de escorpião Veja vídeo  Metrópoles",
@@ -2067,6 +2119,19 @@
     "termo_busca": "alerta escorpiões"
   },
   {
+    "id": "bombeirosreforcamcuidadosparaevitaracidentescomescorpioes",
+    "titulo": "Bombeiros reforçam cuidados para evitar acidentes com escorpiões - Gazeta Digital",
+    "descricao": "Bombeiros reforçam cuidados para evitar acidentes com escorpiões  Gazeta Digital",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzdweFE5Wnd1eEs5a3V3eDNGZXA1UUlrM2pYMDZGZ1J0NDBPTmhNNl9MbVcySHR4LUNQcC1GQ1ppYXNwUFpLai1KOS1pbUVpQ1UwaFJmOVNBb0FHUXJ6dzJ4ZjN0Qmc2VFdoN0RLTFVxdUdRNWlpYTYtOUhkcWhmY2h6ZnAxaVpJZkp6bVlmbUM1ODM5SENTaU5pcV92ZEY1bW5tUWNia1BFRl9vUEdPYzFwT2VUMFkxQ1J6SDU3UQ?oc=5",
+    "data": "08/04/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "prevenção escorpiões"
+  },
+  {
     "id": "picadadeescorpiaocobraouaranhaprocureatendimentonasantacasa",
     "titulo": "Picada de escorpião, cobra ou aranha: procure atendimento na Santa Casa - Prefeitura de Araras",
     "descricao": "Picada de escorpião, cobra ou aranha: procure atendimento na Santa Casa  Prefeitura de Araras",
@@ -3718,6 +3783,19 @@
     "termo_busca": "criança escorpião"
   },
   {
+    "id": "bebesofreacidentedomesticocomescorpiaoerecebeatendimento",
+    "titulo": "Bebê sofre acidente doméstico com escorpião e recebe atendimento - Votunews",
+    "descricao": "Bebê sofre acidente doméstico com escorpião e recebe atendimento  Votunews",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjdZYXZQUi1sSlJHNndnaC05bVNRQXFUZzNQbDdhRjE0U3hHeFN5dXFiR2hZbkRGczVCOWN4cG9fV2pLM1A4RS1pQXplZnAxd1RUeDZ4U3lqVFo5dFJVU2M2bTIwM3pseDN1eEt6cXFjbmduQlBaVzllTUtLbE82YTNiRHFSUUxrVi1abm05R1VBR1k5bkZFZmdPOW9nUjFqVjNpWHhSaGtOdDBqc1FRbUdoaUJYQS1sRTl4dmVn?oc=5",
+    "data": "19/02/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "criança escorpião"
+  },
+  {
     "id": "ovaleinfestacaodeescorpioesassustamoradoresnavilasinhaemsjc",
     "titulo": "OVALE: Infestação de escorpiões assusta moradores na Vila Sinhá, em SJC - sampi.net.br",
     "descricao": "OVALE: Infestação de escorpiões assusta moradores na Vila Sinhá, em SJC  sampi.net.br",
@@ -3768,6 +3846,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "controle de escorpiões"
+  },
+  {
+    "id": "butantanexplicaporqueosacidentescomescorpiaoaumentaramtantonopais",
+    "titulo": "Butantan explica: Por que os acidentes com escorpião aumentaram tanto no país? - Diário do Litoral",
+    "descricao": "Butantan explica: Por que os acidentes com escorpião aumentaram tanto no país?  Diário do Litoral",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1VHdmw3OGlTNjdxaFlmNGNiVDVsU1JBZDFIcHRNV0RZTWtoVjlvMmREZ19Zc1l3WHJrN3J2UnF4LXV2RHZnVTMtazBzVUEyYVdCNFV5Vk1FR2RndXF3MTZFNDdvTlhLVjlhVlgyLWUyVThINmdvWnVIMDBOLWFhT2kwR1k5UE1NbU4yNVI5anZ5OXVVcDJkVUxXLWhWRmQzQ1QzTjlyLXgyVExRRk5nYllDQlU?oc=5",
+    "data": "17/02/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião Brasil"
   },
   {
     "id": "saudedoparanamantemalertaefazorientacoesparaevitaracidentescomescorpioes",
@@ -3975,6 +4066,32 @@
     "fonte": "Google News",
     "estado": "SP",
     "cidade": "São Paulo",
+    "termo_busca": "criança escorpião"
+  },
+  {
+    "id": "familiaencontramaisde50escorpioesdentrodecasa",
+    "titulo": "Família encontra mais de 50 escorpiões dentro de casa - Tribuna Online",
+    "descricao": "Família encontra mais de 50 escorpiões dentro de casa  Tribuna Online",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWHFzYjdzQW1BMEp5ck1PcGluQWpwVGRKaERkVVZIeFpsY0tQbTFYd3RyQ0JiZFRibUZ3dmJPT0FGWFh1WHdqZ21uVFBvU3JPTzJrYmU4em8tZ0NmS2xtS2FHZ3I3OVpEVDhuM0RRS1JQbnR5Z1I2a0Rlc0RTc2tZR2VfelFTLWd3SFRZMC1hQW5vZkxNczZDNl9IRGbSAaQBQVVfeXFMUEdXbmRweGNsb2FRNU9rNHR1R0ZuSnpTcXN6U3dJdk1yVklteUxBemNRRS01S2k5cTZpWHhfc2NwVE5keWE1RS01QlZMakRHaVktX1g2cUUzZ0hlX2Zfa1ZvQllJbmluVU56Z3plNVc1MHlPZXBKMXp6eUJxUWZRb0EtQnFWemxXazc5MVVZS2kxUHVtRzUzT3d6M0QyaDdrbVFCak8?oc=5",
+    "data": "09/02/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpiões Brasil"
+  },
+  {
+    "id": "escorpiaocaidecameranoquartodebebeeassustafamiliaemadamantina",
+    "titulo": "Escorpião cai de câmera no quarto de bebê e assusta família em Adamantina | Cidades | Notícias - Siga Mais",
+    "descricao": "Escorpião cai de câmera no quarto de bebê e assusta família em Adamantina | Cidades | Notícias  Siga Mais",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkFxemNTc0hFRnVUaVltRjRITVJheDdPNkFneFJUWV9RcjlpdDFZUzhHNkhRdGp2ZHVSRUxhNkQ2RWpoOFYxXzIxVDRnY25ETFh0Rjl2aGNWR3BGXzVhX1hIdG55QVlJVGwweDRXRFJpVjVya3NRXzlBajJKNjlZS1VqNDNVOGpUSkhjS2ZRSHJ3WEJuTktrZUhOLXZRandoNmpxWU9uTUNMdnRpVnU3VGJ2XzZqeG8?oc=5",
+    "data": "08/02/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Adamantina",
     "termo_busca": "criança escorpião"
   },
   {
