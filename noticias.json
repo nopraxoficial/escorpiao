@@ -1,5 +1,18 @@
 [
   {
+    "id": "riopretoampliasoroantiescorpionico",
+    "titulo": "Rio Preto amplia soro antiescorpiônico - correiodamanha.com.br",
+    "descricao": "Rio Preto amplia soro antiescorpiônico  correiodamanha.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdFdPSWd0czhoSkxkOXIxM3RVODQ3dDNHeF9CYnhUQ2g3dG4wNHpDbDdNdXJPc193OV9TY0VIY2t4aEJaZWZUS3d5OFk0N0x4TkNYTG1QN1pEbk1oaXNNQUp5dHhhd2RWOGVabzVWUkk3dVpqMzA4Z0tKVm00SS16SWp5czdtYVJlbnZSc0pUVjM1d3hwNk1nQlZsNUZrcDM5YnN4ME82N3h0b3hOUFdYNzFzUWVlNXBob3RLWDV4blRQTlBwNkRuSUxOOVoxU3JNUVhFc2wzYk96dw?oc=5",
+    "data": "27/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Rio Preto",
+    "termo_busca": "soro antiescorpiônico"
+  },
+  {
     "id": "cidadenoesemitealertavermelhoaposcentenasdecapturasdeescorpioes",
     "titulo": "Cidade no ES emite alerta vermelho após centenas de capturas de escorpiões - UOL Notícias",
     "descricao": "Cidade no ES emite alerta vermelho após centenas de capturas de escorpiões  UOL Notícias",
@@ -193,6 +206,84 @@
     "estado": "ES",
     "cidade": "Presidente Kennedy",
     "termo_busca": "alerta escorpiões"
+  },
+  {
+    "id": "cidadenoesemitealertavermelhoaposcapturadecentenasdeescorpioes",
+    "titulo": "Cidade no ES emite alerta vermelho após captura de centenas de escorpiões - Rádio Itatiaia",
+    "descricao": "Cidade no ES emite alerta vermelho após captura de centenas de escorpiões  Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFdMNm4tM3VZbTloZmFPVkNxdC1PZzc4QktEcHRSQTRkUFBSX1ltenJET0hfR0JkSURINXNhZHJhYlRPb2lKeHl2SjRSeVk2cG9wUXhTc1BuREFMUEFnUHZ6dGhvcGVMNjFlbWdxei1nTWJ6YlQxd2c2aU1rU1pyUUoxOHlBYmpOcU5pcjRNbmo0b0ZhelVfQzRqMnBqbFA2UkhVVndaRUQzMEpkZkhPQm9GamFtRldtU2Zldw?oc=5",
+    "data": "26/05/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "RJ",
+    "cidade": "Itatiaia",
+    "termo_busca": "escorpiões Brasil"
+  },
+  {
+    "id": "videojovemepicadaporescorpiaoescondidoembichodepeluciaemvotorantim",
+    "titulo": "VÍDEO: jovem é picada por escorpião escondido em bicho de pelúcia em Votorantim - G1",
+    "descricao": "VÍDEO: jovem é picada por escorpião escondido em bicho de pelúcia em Votorantim  G1",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObnphSFBWR09HbHdsb1dpa0JCSEFWUlN6S1ZPb1V3cjNPN29KV1pnM24wV0t0Q0lxWVd3VF9DRkRDRVg2TmlVZkJjRTg2MWs0VnJXUnVpWUJVRy1PMDl4VXJyOGZfNzliOEFpcmx6MU1JWExoeEpkXzlfczFKOWN0aHJ4Slo1a3FibXB4bmdmOC1Kc1BwQVFTSU96OXZ2N21jRXJNY2FTMUhFeEJPQmJyWkhJMTNua2U0Y3hJdlRLRHdQWWdfa1NfUWVIX1Y0eTdpSFQ3eXg1YWJlNmZF0gHrAUFVX3lxTE1vVG1FRl9uQ0NJRW01eDREZnBDTEJrMlpRU2UyOWNsdUJ3a2hGdjlOT1MyR2w2ekswRXo0V1Q0blR0OHNaY0ZtVHcwcV8xSnNMcnNvZjlDN0JkS1pNQkJ3NzZIRElvZG1zN19FZ1FYNXl6ckVoWjlILTRBcEN4TWpjRXhuVUJtZDR1QVZFUDlZZW9MQXFNSTQyYWF4SVZzejhpa2pRT3h5NzcyNTJydXNCY1ZxbW51SXNqS3NVWE1aelE3a2FVOXhlNVc1MmxDbDl5aklFc21UU09aaWNhSWx5NVY3RzBSX05xRXc?oc=5",
+    "data": "26/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Votorantim",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "criancade1anoe6mesespicadaporescorpiaosegueemestadogravenodf",
+    "titulo": "Criança de 1 ano e 6 meses picada por escorpião segue em estado grave no DF - R7",
+    "descricao": "Criança de 1 ano e 6 meses picada por escorpião segue em estado grave no DF  R7",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeTNFbm9peG83UTN5Sjk5bXhMRjJkWmRKU1BRdjZZenlNbUlGQmNKRTE1d1FZUkhMS3lQeUpvU1g0MzBtLXZpYV9pQ1NaUzNSUmFBNXN2TV96OUpHRnNWeGdGdUk5QndaQ0FQSVlNZU1nSFRFQkxwMnVCMTA3OWJKQWY5OVpUT0NLTHZ2dUdwZE5xUHo0cVZ6SGhtSmcteEtrNGNIUS1PbE1JODRpaFRocmRyYlZtVUs3RXpsOVBicUdFMkJxOUtVM1poU0hnMU1uOC1OcHVNRXo?oc=5",
+    "data": "26/05/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "saudeampliadistribuicaodesoroantiescorpionicoemriopreto",
+    "titulo": "Saúde amplia distribuição de soro antiescorpiônico em Rio Preto - THMais",
+    "descricao": "Saúde amplia distribuição de soro antiescorpiônico em Rio Preto  THMais",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZkVmMkFiM2NMcWtkdElzT0RlVUVHdkdZTGxHVmVfelE5RjdPY185NU5jemtoWHFEVFhRUEtON3JlZXZYTGVocno4SFY4S0VfWWxsaWlEYzhnNDhVSHdQaGtULVBKRG83SmFIbEUwZkptSkZ3dGE3Nm4xRUlEcTRRVmZZLUtUYkk4ZjUtQ1F2N3o0QWVIWDQ5VW1TS3ROc0ZDV0ktVFpWRQ?oc=5",
+    "data": "26/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Rio Preto",
+    "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "cidadedoesenfrentainfestacaodeescorpioesecaptura150animaisemumasemana",
+    "titulo": "Cidade do ES enfrenta infestação de escorpiões e captura 150 animais em uma semana - G1",
+    "descricao": "Cidade do ES enfrenta infestação de escorpiões e captura 150 animais em uma semana  G1",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbV9VbU9TOEJYMVdHWUhCaFU3ZWl4X3hPRTVER002blFlMWFNRVNoYVhOX0dGZTkxWThtc0tmTGttcEpfQVBlbHVSanppSzJ5Q2x0VmRkdzZfbVV2empHX0Q3UlAwNDU2a1VSRkZyWFcyb1J5MGxOamF4RVhOR24tZGRrWjV2U2E4Z2JlQ2Eyc3N6c0xpQk14NU1UOW9hSUNEQUtlZjlMVUpCYUtyQm9ZNFhvTWNzOVVnekQtVEVoSmR5VHhJREFfekpsamx2WTFwbVVSZ1lpbFFFemtNUGZaYkNyMzNxODV00gH3AUFVX3lxTE13T0I3anlxQTBUVGpLN3kyeVpReW5mZElzVk9rVDcxQkhmRHIwTkFwZThkYUlFbWhxcHJLYm1HR1d6bmpIN2ZRamowcWNCX1hQZUpiWEw0Y1ZVVEktNHkydUs1SWxWaTVoWUdkX0tHZVRrLUMycUR5OWM2dWxkMWMwYTBweGJKNlJCcnhRcWJOVWtKN1l2ZW5aem44QnVpT0k1NkQxbDJ2YjZYR1dydWI1QXlnTDJ4LVN1YzA4Ui0ySGtzbDZsX3ZWUmVtaFNfZXplX0ItNkdLd3J6dG81enVaeGgwUkZDVTc0UG1IVVRQMDZzZDVDNlk?oc=5",
+    "data": "26/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "infestação escorpiões"
+  },
+  {
+    "id": "infestacaodeescorpioesassustamoradoresemribeiraopreto",
+    "titulo": "Infestação de escorpiões assusta moradores em Ribeirão Preto - R7",
+    "descricao": "Infestação de escorpiões assusta moradores em Ribeirão Preto  R7",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGtWWThUQjlMUVpNOW16cjhOUF9BTUtxR3lIc0xPT3pqSVRvcmtyUUJQcmtEWFRRODhwWWNidU5mVGhVY2F5dFgyQjJPYWRNR1FHd19TcmtuTl9BM2lZRjlOWDhFelM5RnZ4QVhkTTc2akZRenM2WFBKeFpLNWtrZm9BaGpzc1kybWRnRW1IQjRQUDFMMS05RUpnR1hQTHJEYjE2YndrcVFGZE5rUnB5TFhwdw?oc=5",
+    "data": "26/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Ribeirão Preto",
+    "termo_busca": "infestação escorpiões"
   },
   {
     "id": "prefeituracapturacentenasdeescorpioeseemitealertavermelho",
@@ -910,6 +1001,19 @@
     "termo_busca": "escorpiões prefeitura municipal"
   },
   {
+    "id": "tijucasintensificacombateaescorpioesemantemalertaemdoisbairros",
+    "titulo": "Tijucas intensifica combate a escorpiões e mantém alerta em dois bairros - TopElegance",
+    "descricao": "Tijucas intensifica combate a escorpiões e mantém alerta em dois bairros  TopElegance",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPandHWGJHWW9hR0RwUGFsck1DXzNya0JHSjZ5aTZERWFNeXJVX2lMNmkteVA3R2M3ZHF3R3BRLTdMTlBLNGNUMzlCTkJiMXU1QW5wTDc2M291YmpCajMyX0N5OVhTN3VuTkpuVElvVHlIcy1mYUwxRHR5d0lXdEpTSXBEdDNzWk1PWnlwSnNNQlBXZjNLWE4zOHFJY2ROYUV0cl9FS05HakgxVVdsN2hURVY3djJ6RzlO?oc=5",
+    "data": "07/05/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "SC",
+    "cidade": "Tijucas",
+    "termo_busca": "alerta escorpiões"
+  },
+  {
     "id": "casosdepicadadeescorpiaocrescem25emsaopaulosaibaondebuscaratendimento",
     "titulo": "Casos de picada de escorpião crescem 25% em São Paulo; saiba onde buscar atendimento - G1",
     "descricao": "Casos de picada de escorpião crescem 25% em São Paulo; saiba onde buscar atendimento  G1",
@@ -1168,6 +1272,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "animais peçonhentos escorpião"
+  },
+  {
+    "id": "moradoresencontrambueirocheiodeescorpioesnaasanortedf",
+    "titulo": "Moradores encontram bueiro cheio de escorpiões na Asa Norte (DF) - R7",
+    "descricao": "Moradores encontram bueiro cheio de escorpiões na Asa Norte (DF)  R7",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR2VERU9VS3dtdExoT210X2U2UHU1ZzRheGJWWVIzTk8wRy1ockJwaEhxbGhsUllUZGVLWWF5ZnFTMjM0Q1JPQUtoSmRoay1RYW96Qkp3U0RUc25BZTZVNTNldWtRMTd2UXNfdXFpX25wWHpLX1lfckxRZWtsM1UzcXA5Z3dyd2MyMklFSW14em9rRnREOFRsYmNVLUY5ODgyQzFkOGwwcmM5SVVrelBmSFFFYlRpWVVidzZTWQ?oc=5",
+    "data": "29/04/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "infestação de escorpiões"
   },
   {
     "id": "populacaodobairroruanovapedesocorroaprefeituraaposinfestacaodeescorpiao",
