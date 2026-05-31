@@ -13,6 +13,19 @@
     "termo_busca": "prevenção escorpiões"
   },
   {
+    "id": "criancade1anopicadaporescorpiaonodfrecebealtaevoltaparacasa",
+    "titulo": "Criança de 1 ano picada por escorpião no DF recebe alta e volta para casa - Metrópoles",
+    "descricao": "Criança de 1 ano picada por escorpião no DF recebe alta e volta para casa  Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHdRTUJvN2RZZEdDNnBnWnFhYnlYZTYwZmsyQklMd1UzbDc1QzB2bnNpcVpPNnpHTk1YX1lNZlk3TmMxQTljOGRjbVM1aVozNE1ROW9PRW4yOFdLM1FTU3FHZm9XZnF3Z214Y1QwQkp6SG5fTVdJcUNLNTVQTW9weDVSRnBmeEZkOER0LWtjTm9MR21udE1CMXBjYTFETGVkdlpXallLME5MMEI5MlhWYzB6VWVJdDdQ?oc=5",
+    "data": "30/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
     "id": "aumentodepicadasdeescorpiaoelevaprocuraporsoroantiescorpioniconodf",
     "titulo": "Aumento de picadas de escorpião eleva procura por soro antiescorpiônico no DF - R7",
     "descricao": "Aumento de picadas de escorpião eleva procura por soro antiescorpiônico no DF  R7",
@@ -4160,6 +4173,19 @@
     "termo_busca": "controle de escorpiões"
   },
   {
+    "id": "meninode3anoselevadoaupaapospossivelpicadadeescorpiao",
+    "titulo": "Menino de 3 anos é levado à UPA após possível picada de escorpião - Portal MPA",
+    "descricao": "Menino de 3 anos é levado à UPA após possível picada de escorpião  Portal MPA",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVE1NcmpSbjJtSlFfLV9VOUlKdmtlWUdubndtQlZUUy02NGVWVlZaazl1dXhNYkZPTDJRbkE5Y2tCUC1kMDhvVlBqbnVTZUhCV2tvU1BVVWFSeDhKdUdsSWRLYTlmS1QzMFFjd2VLXy1JOHZOVU1qWnZ0UmxNcHJrMHQweEhWVzJvc2FNUEkxdHQwWklXTXRZcnZjN29OcVhXNVhiWkd0MVZJcHVxR2FkUHZrazR0WThv?oc=5",
+    "data": "11/03/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "acidente escorpiônico"
+  },
+  {
     "id": "agoniadainfestacaodeescorpioesemcrechepreocupapaisdecriancasnointeriordesp",
     "titulo": "'Agoniada': infestação de escorpiões em creche preocupa pais de crianças no interior de SP - G1",
     "descricao": "'Agoniada': infestação de escorpiões em creche preocupa pais de crianças no interior de SP  G1",
@@ -4938,6 +4964,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "escorpião Brasil"
+  },
+  {
+    "id": "prefeiturademariliarecomendamedidaspreventivasparaevitaracidentescomescorpioes",
+    "titulo": "Prefeitura de Marília recomenda medidas preventivas para evitar acidentes com escorpiões - Marília Notícia",
+    "descricao": "Prefeitura de Marília recomenda medidas preventivas para evitar acidentes com escorpiões  Marília Notícia",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOExlT3l1WERCb1J0YVozTWJUYW52WEZDdVJKaWt3MzJSZFJRNXpHQVNONDU0NjM0cHp6ODZSZUZ0clpjRjVfb3pLNmdobnRnR0hYZk1ORk9NM1Q0czVMZGM3SFZQTWZ6SnBONldEcE1nc05JS0xXWGVpRHRGc21KVWZkcEUwSlVOdTNXdnk4dWRvRDQ2Nl9IZDFwVFkzZWk1V2k0Slc5S09UT0ltOHpCaGxSUTFnTEJZYlhB0gHAAUFVX3lxTE9VeGEtVGV6M2hQdWdsanZKMzhjVmotYTJkcnFqcFBaMlFqTUxjZkJ3U3B2TTJuWmtUM2MyQnBvYVdGS2N0bDJFdUZKUGZPMDdSdFJsbHhsMWVNZTRwQ2N3VXdUYlZZekM0MVBkaVktcWxEWEM3bGJ2RTZPQUloMXdRZ3Zxd1puUmZESElCeXRaaVE2TmgyUlgzWk9HSXYtY29SMEdzeUVNQktGWlVsQkg0T1paTmFIYmFpMFZnUTFpUA?oc=5",
+    "data": "13/02/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Marilia",
+    "termo_busca": "captura de escorpiões"
   },
   {
     "id": "ondetomarsoroparapicadadeescorpiaoemuberlandiavejalocaleantivenenosdisponiveis",
