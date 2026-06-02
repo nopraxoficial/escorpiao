@@ -39,6 +39,45 @@
     "termo_busca": "picada escorpião"
   },
   {
+    "id": "meninapicadaporescorpiaonodfrecebealtaaposcincodiasinternadanauti",
+    "titulo": "Menina picada por escorpião no DF recebe alta após cinco dias internada na UTI - R7",
+    "descricao": "Menina picada por escorpião no DF recebe alta após cinco dias internada na UTI  R7",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUGFkVGlXaUtkNGRfSXVkOFV5RHp4d2pMTURKaUM1c25FMjQ5c3MxMnR3Vno3UXlpQjlObE5TTnpYYV9NbmFlY1BpdW5zaXctQ2hNUS1NcUtETnB1YkZmZjVyaVlBTDZZWEd6T0pwdUl0WjJOTTRQWXIxNXZwNVBfSDFXWFVvWGotY2FpSkdiWG94anNJYnpoR0tYcU5Ycl82U3V0d1ZUWExXTjBKUC1KTXZ0X2xQd0VfTFNpdVVVa0l0eHhNQTZZbzlUbG9XNmVzWHRRcGdKajhJdnJn?oc=5",
+    "data": "01/06/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "picadadeescorpiaovejacomoagiraposacidenteequaiserrosdevemserevitados",
+    "titulo": "Picada de escorpião: veja como agir após acidente e quais erros devem ser evitados - THMais",
+    "descricao": "Picada de escorpião: veja como agir após acidente e quais erros devem ser evitados  THMais",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZWNaRGY4QzhlRzAtMkN4RUdLLTBBOFpod2hwaHlJRDJCbVJrYWtoRmJ6ZHRCSmVoVTJWU3hVQ0VqOUNoODE1U3BIa0puc3NnTXV0WndpUEVtY0lfcEpfYUEySnBXSS1zbm82NEczcmNUNVpDUWw2OTFSMFF4QVd4NjBzX0xfNzlWZFJpRUlPdHQteTlaMVJVR1dzQWRiYVdMc1lwTzhuMm9zQk1adUNCb0dQWE9LU3NBbndxU3Jjd04xcmlKVl9iME0xMVVIVng1X2hOclpfd043VUVfRFV1R05B?oc=5",
+    "data": "01/06/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "vigilanciaambientalorientapopulacaosobreacidentescomescorpioesemjoaopessoa",
+    "titulo": "Vigilância Ambiental orienta população sobre acidentes com escorpiões em João Pessoa - ParaibaOnline",
+    "descricao": "Vigilância Ambiental orienta população sobre acidentes com escorpiões em João Pessoa  ParaibaOnline",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDBnTlE1a0I1M1RsbFZpR2lCUG0xLU1tZTBkLTgyT0pZZXl4SnJUbkxNSXZjYXB3MS0zbS1kV3VhNGFxeV9MVUxQSzFuNnpHcmxzNzdkRjdnLWM0c3MyN29YRm85WWk0bGtJRDA1QUFrVWdIdWZLV1hpX2k3YXNUMXluVkR6cmxzbl9tX29uUW8zeTFWWGFjZ01URVNxMDI1QUQ2c083VVg1QkpYYUdIZmhuTi0wV1dURVZ6MEoxSFpEUTBIal90MXJTRko4QQ?oc=5",
+    "data": "01/06/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "PB",
+    "cidade": "Joao Pessoa",
+    "termo_busca": "vigilância escorpião"
+  },
+  {
     "id": "combateaescorpioessaibacomoagireprotegersuacasa",
     "titulo": "Combate a escorpiões: saiba como agir e proteger sua casa - Grupo Portal de Notícias",
     "descricao": "Combate a escorpiões: saiba como agir e proteger sua casa  Grupo Portal de Notícias",
@@ -232,6 +271,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "brasiliadfaumentamcasosdepicadasdeescorpiaoemcriancas",
+    "titulo": "Brasília (DF): Aumentam casos de picadas de escorpião em crianças - diário do estado",
+    "descricao": "Brasília (DF): Aumentam casos de picadas de escorpião em crianças  diário do estado",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdThOR1pTeFZIdkpyTGRZUFZRdDF5VXRDS29UME1KRlduOTdDcmgtRXVPNElYWWRleWp4d2pMYXBfNlk5ZjBnbzkwdmEzMmJrcks2clZLTUg2NFhEUDE4NlVjdFo4QzBHdXl6M1JPM25WdzhFc05uZmVGN21ieGhZODBHeUNyRTQ2VUQ2S296djdvWVNRLUJWVFNrMA?oc=5",
+    "data": "28/05/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "criança escorpião"
   },
   {
     "id": "riopretoampliasoroantiescorpionico",
@@ -5601,6 +5653,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "controle de escorpiões"
+  },
+  {
+    "id": "aparicaodeescorpioesgeraalertaeorientacoesapopulacaoemcampobom",
+    "titulo": "Aparição de escorpiões gera alerta e orientações à população em Campo Bom - A Gazeta CB",
+    "descricao": "Aparição de escorpiões gera alerta e orientações à população em Campo Bom  A Gazeta CB",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWloNFhXLTdnenRoUmhNTU5MMUh3Y2x2bklGTUhLMFp3cFU3dXc0dzBMdHV2REV6RGRKNnU1cEllcXc2MjdqTFpRNGZRQUtLdUdRX2pPckdiMlpJVXFhMWQ3UUlzUkdMWm4wVmhKU28xRlBxYXhKMlVxeUJwLTljVF9IakRodXZEQVNnUThfb29Rc1FHVGpMbDVuM2FQb096?oc=5",
+    "data": "20/01/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "RS",
+    "cidade": "Campo Bom",
+    "termo_busca": "escorpiões vigilância ambiental"
   },
   {
     "id": "descarteincorretodealimentoscontribuiparaaumentodeescorpioesnasresidencias",
