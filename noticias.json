@@ -65,6 +65,19 @@
     "termo_busca": "alerta escorpiões"
   },
   {
+    "id": "familiapromoverifasolidariaparaajudarnotratamentodecriancapicadaporescorpiaoemrondonia",
+    "titulo": "Família promove rifa solidária para ajudar no tratamento de criança picada por escorpião em Rondônia - diariodaamazonia.com.br",
+    "descricao": "Família promove rifa solidária para ajudar no tratamento de criança picada por escorpião em Rondônia  diariodaamazonia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ3BPSHRlLTctbHlwMVNVaEc3VC1kdElfSUZ6SGFzWGFZX1BCQXBZQlBzLXVJRUw2bWpKcklpanV6THJ1OWpTYkhHYmtGQ0Q5TEEtQlBiajJkSmtKUEY4UXo5bmRyVEVITktlRU5Va1NxSVlsMjdFemZ1SU5UMVRFN01QUGZtRWNpVG9wY0Fad1BGZEdvVDBTcWxQcDJTbUlTa2l3SjhLZnU5ekRlLU55b3ZSeUFjck5la0pNWElZNFkxNDFYYUtmeG11QXViX1FkWl90MEZtRVJ4RDNYZ2pnU1Nfbw?oc=5",
+    "data": "19/06/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "RO",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
     "id": "dfregistra1974acidentesporescorpiaoempoucomaisdecincomeses",
     "titulo": "DF registra 1.974 acidentes por escorpião em pouco mais de cinco meses - Correio Braziliense",
     "descricao": "DF registra 1.974 acidentes por escorpião em pouco mais de cinco meses  Correio Braziliense",
@@ -726,6 +739,19 @@
     "estado": "MS",
     "cidade": "Chapadao Do Sul",
     "termo_busca": "alerta escorpiões"
+  },
+  {
+    "id": "imprimir",
+    "titulo": "Imprimir - Brasil registra alta de 349% nos casos de escorpionismo - Sudoeste Bahia",
+    "descricao": "Imprimir - Brasil registra alta de 349% nos casos de escorpionismo  Sudoeste Bahia",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3d6NmtlaTVCR2gwWHdZbHdPQ1pKT2s4YXRSUkVaUF9kSUwtZUlyOFhsOWdYVzlHTk84NmFVb1piekVaLU9lMDc4SXdWRVYzdWp3Z3pzc2FxN0g3UW1BUnFPUzUyWEhSdEpuQmJlbXdaYUp5VFJYaHk3NkpYSjlMTDJKMHhBMkNobDlGNU9mT0E5RDg1ZnZ5SThQcVAzSlExSlNmcnJoV3lVTzRiMWc?oc=5",
+    "data": "12/06/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "BA",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpionismo"
   },
   {
     "id": "picadasdeescorpiaoaumentam349nobrasilem12anosmgspebasaoestadosdemaiorrisco",
