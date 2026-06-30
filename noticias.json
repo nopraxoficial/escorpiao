@@ -1,5 +1,18 @@
 [
   {
+    "id": "armadilhasemvenenocapturaemonitoraescorpioesemareasurbanas",
+    "titulo": "Armadilha sem veneno captura e monitora escorpiões em áreas urbanas - CNN Brasil",
+    "descricao": "Armadilha sem veneno captura e monitora escorpiões em áreas urbanas  CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbThZaHJfeTRIektHNFN5bV9XeTBDQ1F6ZEtkQTBJVm1UeF9VdnJXdWRNTkpEX3Q0N1NoZGxDNnU2NjFxQUhpbXhPYkVVOXVEcGFvZ0l6dVJLUzZMUlFKS0JJOTV2VUlhOHV1dXpZOXhCdWtwNFNxbkNaNUpFVmkyaUFuNTNTLVcwZXhJMWNUeTlCb3lIemFmOEU0WHdDd0llZ0NWYk10VkZUbUN5?oc=5",
+    "data": "30/06/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião Brasil"
+  },
+  {
     "id": "curiosoporciencia116estudoidentificasinaisqueajudamaprevercasosgravesdepicadasdeescorpiaoemcriancas",
     "titulo": "Curioso por Ciência #116: Estudo identifica sinais que ajudam a prever casos graves de picadas de escorpião em crianças - Jornal da USP",
     "descricao": "Curioso por Ciência #116: Estudo identifica sinais que ajudam a prever casos graves de picadas de escorpião em crianças  Jornal da USP",
@@ -4067,6 +4080,19 @@
     "estado": "MG",
     "cidade": "Varginha",
     "termo_busca": "escorpiões prefeitura municipal"
+  },
+  {
+    "id": "prefeituravistoriza37unidadesdeensinocontraescorpioes",
+    "titulo": "Prefeitura vistoriza 37 unidades de ensino contra escorpiões - Rádio Itatiaia",
+    "descricao": "Prefeitura vistoriza 37 unidades de ensino contra escorpiões  Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGd2UlBsdXhHT0c4UUM0a1owdHNsWWd1ZlBjMDFfRG85XzdyOEVmbDl2V2Q5dXJYaTdQQXZKQ1F6MkdRTWxDNnBxZHdhVnhRbElsWmgtZWRiQUU4YWVZcnA2TExuQ0VJdFRoQ0lpU01TdjhqdVhpekZlVERtMjh3bEI2dU1SMUNuLU43anJURkVmdVJkRXphRWJsV2taTEdUZGc?oc=5",
+    "data": "24/04/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "controle de escorpiões"
   },
   {
     "id": "casoscomescorpiaoamarelopreocupammoradoresdecriciuma",
