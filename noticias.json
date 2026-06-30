@@ -13,6 +13,45 @@
     "termo_busca": "escorpião Brasil"
   },
   {
+    "id": "dfregistraaumentodeacidentescomescorpiaoem2026saibacomoseproteger",
+    "titulo": "DF registra aumento de acidentes com escorpião em 2026; saiba como se proteger - dfaguasclaras.com.br",
+    "descricao": "DF registra aumento de acidentes com escorpião em 2026; saiba como se proteger  dfaguasclaras.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGJfa0c1RWdkLUVhWFpzZFdiWkRqQ3JyYlMyNVNxV2ItbjRoZDhYdnlYbkQ5U1pFaFBCclRELUljWndpX2gtcGM1eWVzN0p1d2FlQlR5ekdBRGZpcTdhb0NHWmRrSjVrVldlLVlkYlBxQjR2dUZHeTJETHhPVjlMczNMazhCVU9GcW5JTzVuWXVpUEJKVC1MSzRXcUg1VFotb05kX0k1b1hOQkZQTFFiMg?oc=5",
+    "data": "30/06/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "escorpioessaibacomoevitarapresencadoanimaldentrodecasa",
+    "titulo": "Escorpiões: saiba como evitar a presença do animal dentro de casa - Secretaria de Saúde do Distrito Federal",
+    "descricao": "Escorpiões: saiba como evitar a presença do animal dentro de casa  Secretaria de Saúde do Distrito Federal",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaml2SkdweXk3amNwblg5X1hQMkdJNVZoNmpzY0toV1RXUURla3lQczdlQkFKLTM3RWlzZ0JjZmY4X2x2ZVlPMnAyLTNnOHl3MGo5amNSUS1QeUcxQ0JhaVEyMFI3dUJ2Y0I1NE1PUlhTYThJa0NXTEh4NDdsUV9fb3N5U2I0ZGFEQ0QxQ01YREhMcGpsbW82NWF3?oc=5",
+    "data": "30/06/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "DF",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião amarelo"
+  },
+  {
+    "id": "saibacomoevitarapresencadeescorpioesdentrodecasa",
+    "titulo": "Saiba como evitar a presença de escorpiões dentro de casa - Agita Brasília",
+    "descricao": "Saiba como evitar a presença de escorpiões dentro de casa  Agita Brasília",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0lDM1oxYjh5U3N4UDBCX1F1TGpsVVdHbzJfYXYxTF9LVTlvMVBrMk1EbmpoZzd6bUxnN3hXQkwzOHpTQnBNemR0MkpHeWM3RnJJTnNxVUxUa09leGJvU1I1cWtNRHljR0ktUzkteHZ3RmRpdjFsRFI5U2xvd2NQcjRLR1lOVE93SVZHRQ?oc=5",
+    "data": "30/06/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "prevenção escorpiões"
+  },
+  {
     "id": "curiosoporciencia116estudoidentificasinaisqueajudamaprevercasosgravesdepicadasdeescorpiaoemcriancas",
     "titulo": "Curioso por Ciência #116: Estudo identifica sinais que ajudam a prever casos graves de picadas de escorpião em crianças - Jornal da USP",
     "descricao": "Curioso por Ciência #116: Estudo identifica sinais que ajudam a prever casos graves de picadas de escorpião em crianças  Jornal da USP",
@@ -986,6 +1025,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "escorpião Brasil"
+  },
+  {
+    "id": "meninade11anosficaemestadograveaposserpicadaporescorpiao",
+    "titulo": "Menina de 11 anos fica em estado grave após ser picada por escorpião - Metrópoles",
+    "descricao": "Menina de 11 anos fica em estado grave após ser picada por escorpião  Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLS1vWW1PU2ZEMFRlWHhyUEl6NXRkRVdaamZrT0NfcTJETXBSb2FkSDA1M1dOLTJvZjYyX3hXYndSYllOcjNCQ2N5NlhHUU5Vekd1MG90VDR1ZWFhejcwWnpNUlExZDUyNEhyV29jaE4xbC1Db0Z3UHpnV2ZnajU4a0JTMjNsSWZHcldFaTN2QVdQd292X0ZYZm81VEpWdWFxaWNiaUdGVmYxV0lMZFE?oc=5",
+    "data": "16/06/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
   },
   {
     "id": "aposidentificacaodeescorpiaoamarelomunicipioemitealerta",
@@ -6393,6 +6445,19 @@
     "fonte": "Google News",
     "estado": "ES",
     "cidade": "Marataizes",
+    "termo_busca": "escorpiões vigilância ambiental"
+  },
+  {
+    "id": "escorpioesmarataizesorientapopulacaoaposaumentodecasos",
+    "titulo": "Escorpiões: Marataízes orienta população após aumento de casos - Aqui Notícias",
+    "descricao": "Escorpiões: Marataízes orienta população após aumento de casos  Aqui Notícias",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHR1bXNqMW04eGtzNldmeU1UVGJGbXRKdVplR3hYd1Z3WjVoWGN1NXRrcVZ1YmphWE1LRGtLeXhrbzlRZGlTaGV5UFoyMGxjS3laWVIwNEZfUGEtTXdfR1FlZnQyNDViZXhnWTlVM09raGNBdmRNNU5JcWEyS2VVelhCZG9uS05tVGtPVFRFR0U0Q2JlVEJRUEY5QQ?oc=5",
+    "data": "22/03/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
     "termo_busca": "escorpiões vigilância ambiental"
   },
   {
