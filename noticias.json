@@ -1,5 +1,18 @@
 [
   {
+    "id": "bentogoncalvesregistraquatrofocosdeescorpiaoereforcaorientacoesdeprevencao",
+    "titulo": "Bento Gonçalves registra quatro focos de escorpião e reforça orientações de prevenção - Leouve",
+    "descricao": "Bento Gonçalves registra quatro focos de escorpião e reforça orientações de prevenção  Leouve",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWdFU0p4M0duZEpaX1B5OHlWWGZ0aXZHTkluWElFYXZwUnNUSmgyRXN6RXVsZFBqcjBNRUdWb0NsV2hHMW40VFNMZG5BbzNxWG9RSDY3R08zRDhsa2M0QjhreDE5c2gyQ09nTDJPbnBMeXgzVTBkb29EUkJ6UHowaks4NHNmdnFzQUlkQU9RXzVwdnRSdmN5MjhaRUdqZ3NPNExvd2ZTV0V2UXNwbjV1cWlUZm15M1J6TElUZmN2VQ?oc=5",
+    "data": "05/07/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião vigilância ambiental"
+  },
+  {
     "id": "prefeituradetarumarealizaacaodeprevencaocontraescorpioesemescolamunicipal",
     "titulo": "Prefeitura de Tarumã realiza ação de prevenção contra escorpiões em escola municipal - O Diário do Vale",
     "descricao": "Prefeitura de Tarumã realiza ação de prevenção contra escorpiões em escola municipal  O Diário do Vale",
@@ -11,6 +24,19 @@
     "estado": "SP",
     "cidade": "Taruma",
     "termo_busca": "prevenção escorpiões"
+  },
+  {
+    "id": "picadadeescorpiaooucobramapainterativomostraondeencontrarsoroantivenenoemsp",
+    "titulo": "Picada de escorpião ou cobra: mapa interativo mostra onde encontrar soro antiveneno em SP - Portal Aqui Vale",
+    "descricao": "Picada de escorpião ou cobra: mapa interativo mostra onde encontrar soro antiveneno em SP  Portal Aqui Vale",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjFUZlhfSndobTNtRmU1OXVPc0pWdkl4N2ROc3BLOW42d0dFSnZ4S2d1Z2VSd242ZVNMNGdDSXdGc0ZSa0VTRkNucVYtMVAwMjBWNENjaFEwQmduT2txbDFMME9uei04dmliZGFQUFUtT2o0NkgzSUd3NmpvNDY2TzgxcXNid01IeTdtMnlHZGxLRUl0dGVGenlSSVhXdXlrLUZQZTdHQm5LRHpzbE9SaVVSUkFNek1va1dN0gHAAUFVX3lxTE9aTXJ2YUVvczFYXzZlOTFIZkNiOExRUTdha1VqTXBUQS1kZnV0dEhRZU1vRmdWbXIzc0pUWmluVm1xczRnZjFDR0E2azVGSkZWMUdqdU12MS1XRmdPWUs5TU84U2tOaHgyanlWSE5oMDdGVFhXRHg5bDkyNHJfS1pNQnhiQXNsTGNGQVQwbHUteUlwU0tBVmxXWHo4Uk52Rmhma1NCcWRTYlNFOTZ1QnNheGdyX3FqcnhiTUhKUTl2UQ?oc=5",
+    "data": "04/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
   },
   {
     "id": "criancaehospitalizadaaposserpicadaporescorpiao",
@@ -1181,6 +1207,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "alagoaslideranumerodecasosdepicadasdeescorpiaonobrasilapontaestudo",
+    "titulo": "Alagoas lidera número de casos de picadas de escorpião no Brasil, aponta estudo - AL 102",
+    "descricao": "Alagoas lidera número de casos de picadas de escorpião no Brasil, aponta estudo  AL 102",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcENsQlpJZm5CdE5fSDBqeWYyRS1IZXZxbFA4eHJuWFdmMDJwaGp3SVd3dkphNW90SUtXcDhvOTVKWDVMc2I1YUtfOFRSdDdLSW9XX2daZXJrUWhnZ2piYXpneGRRVVhLU3FnOWtmZGlsaGdiSWNrZmhBc1VTdmtYUzRPMjloa1RlR1lBZzRtaTVTQkxYX1hWVjFFY1JBQmRGZy1mQXVvSURLSVRUcGhpVzV1eXprN3pCWFE?oc=5",
+    "data": "15/06/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "AL",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião Brasil"
   },
   {
     "id": "aposidentificacaodeescorpiaoamarelomunicipioemitealerta",
