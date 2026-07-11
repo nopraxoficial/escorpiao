@@ -1,5 +1,31 @@
 [
   {
+    "id": "picadadeescorpiaoexigesocorroimediatoetemmaiorgravidadeemcriancas",
+    "titulo": "Picada de escorpião exige socorro imediato e tem maior gravidade em crianças - Jornal da Franca",
+    "descricao": "Picada de escorpião exige socorro imediato e tem maior gravidade em crianças  Jornal da Franca",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHZnczRscnRmYjFuSnRCdXkwUXdQNFAxSG03OURSSmtkdjk2ZkhKSVdpaUlrLVoxWTF1RlZzV2tjV19kcjVJZlJKTG9CQVp5R0l4VjZmS1BzbHkwUl9FUG9EQlBlbXp5b1AwM3I5Q2xFM0JmVHpIWjhuaUx2LWQ4TWN4cy10UzlkNGJCZFpCWTY4bXg3VDNzRTFZNG11anM5VG1aMkdKSnVFbmNoNnZZUw?oc=5",
+    "data": "11/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Socorro",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "escorpioesataquesexplodemnodfeanimaisaparecemateemhospital",
+    "titulo": "Escorpiões: ataques explodem no DF e animais aparecem até em hospital - Metrópoles",
+    "descricao": "Escorpiões: ataques explodem no DF e animais aparecem até em hospital  Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGR3SWxOYm4wUUU3QmwteHgwVFdZT0s1LWYyamNHcnQyT0xwSHBoRVpOVktic0JqWDRUMHlSSkMwc3g0S213Z2F2TWhuSkRqVGZvaFdsZmZwZVJVMlN0MWFjc2tpTG11VVlNZVZ0MU5qdUlremNpdWNGNGhMSW16eXB6XzZZd0wwVjhlU0drSjdxMUd3NzNQZzZacGpva21PcnFmQmxNMk1PLWxZcVozN3VB?oc=5",
+    "data": "11/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "soro antiescorpiônico"
+  },
+  {
     "id": "dfregistramaisde2000picadasdeescorpiaoem2026",
     "titulo": "DF registra mais de 2.000 picadas de escorpião em 2026 - GPS Brasília",
     "descricao": "DF registra mais de 2.000 picadas de escorpião em 2026  GPS Brasília",
@@ -50,6 +76,45 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "prevenção escorpiões"
+  },
+  {
+    "id": "filhodecristianoeatendidoemnovagranadaapospicadadeescorpiao",
+    "titulo": "Filho de Cristiano é atendido em Nova Granada após picada de escorpião - Dhoje Interior",
+    "descricao": "Filho de Cristiano é atendido em Nova Granada após picada de escorpião  Dhoje Interior",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQW9RWGsyZ0pobmdwbGs1NGZKYkh6STg4YTJIUWc2V1dNWUdxNEVWd3NlQ3preEg5SDlmTUluTGNnTTZsbkRiYVl6dm9ya29feUNFNmtsYVVac1NIZ2d0SmlqTHpxMWpOSDVQX2tVUDNiTTNyN3NoSEFnWG1aZXNhaUo4eE0tX190OWpEM2dYSnlGQ012SUxTLWFwbEZUaFRZTlRrSGZuZm90QlRDVFdNZjVfZDJIV1QwTTMwYg?oc=5",
+    "data": "10/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Nova Granada",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "mortedemeninaporpicadadeescorpiaoexpoeriscoelevadoparacriancas",
+    "titulo": "Morte de menina por picada de escorpião expõe risco elevado para crianças - O Norte",
+    "descricao": "Morte de menina por picada de escorpião expõe risco elevado para crianças  O Norte",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDRxOFMyRFpGdERaWkMwcTYyeERhZWNKeThvdmlsWEx3MmJCUGlKdDBKeWlHZzQ4SmJJUDhrd01JQWd3SThPTHVTV1dYSVFWbTlXbUZLZVBKMUJqMTJZN2t2SmNyVUZCS3ZlX1NFdDRoUE53bmR1RktER1JzMU1HVC0xcEJubHZEY3hVWHAwSmVPYXpEdXdCdzZRekdTYVN6el9US2JGVHlSa3VR?oc=5",
+    "data": "10/07/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "moradordodfconvivecominvasaodeescorpioesecobraacaodasautoridades",
+    "titulo": "Morador do DF convive com invasão de escorpiões e cobra ação das autoridades - R7",
+    "descricao": "Morador do DF convive com invasão de escorpiões e cobra ação das autoridades  R7",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbjJFRXl3aXNTT1NUdEpBT1JRYmxtUm5PeXNuODdYS2FFbnczSkNrSWhWVmd6RkVWSUV4MUJ2R0JmVG5ydi1GSG1oYXl4c1VmMVVSNlliUUZFRWNyU0t1WGRDc1A4UjlZX2F0MmdSRW51aXp6YnM5Z2puVHFvb2U5UDFxeUpsTEUxSnhjeEdhREZubkUyMklhbGc5Zm5qQk1Ta3lpeklSaVFOVkg1UFY1c1oyeW81dzVYZEFyS2EwajNjdHlGUG15M19aWUR2SjFTNU05dXZDWjhIQQ?oc=5",
+    "data": "10/07/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "infestação de escorpiões"
   },
   {
     "id": "criancassaoprincipaisvitimasdoscasosgravesdeescorpiaonobrasil",
