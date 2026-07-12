@@ -1,5 +1,18 @@
 [
   {
+    "id": "venenodeescorpiaopodecausarefeitosmaisgravesemcriancas",
+    "titulo": "Veneno de escorpião pode causar efeitos mais graves em crianças - A Notícia do Ceará",
+    "descricao": "Veneno de escorpião pode causar efeitos mais graves em crianças  A Notícia do Ceará",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnAtQ2JiV0RmYS02X1ZWdnl5OENDQWFLeS1CSUpYWm1XM0hfRDA4NmJ4NWItS0hCcHBGZHd2dVRQLXd2WVdBVDIxS29IeTNhRkU5RFFUaTZPTzRRMndGT3dLSXVJSmRfRmFOQjNva0VjNjFSTGpfOUlQNFRHWDJ4X0RsWW5YVS1fQUNNZ3FCZFJuanlFemQ1dUh6VQ?oc=5",
+    "data": "12/07/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "CE",
+    "cidade": "Não identificada",
+    "termo_busca": "picada de escorpião"
+  },
+  {
     "id": "picadadeescorpiaoexigesocorroimediatoetemmaiorgravidadeemcriancas",
     "titulo": "Picada de escorpião exige socorro imediato e tem maior gravidade em crianças - Jornal da Franca",
     "descricao": "Picada de escorpião exige socorro imediato e tem maior gravidade em crianças  Jornal da Franca",
@@ -141,6 +154,19 @@
     "estado": "MG",
     "cidade": "Iguatama",
     "termo_busca": "prevenção escorpiões"
+  },
+  {
+    "id": "filhodecristianodaduplacomzenetoepicadoporescorpiaoerecebeatendimentomedico",
+    "titulo": "Filho de Cristiano, da dupla com Zé Neto, é picado por escorpião e recebe atendimento médico - Metropolitana",
+    "descricao": "Filho de Cristiano, da dupla com Zé Neto, é picado por escorpião e recebe atendimento médico  Metropolitana",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUkFjOXJwNUN2eEV6U3RSTjYyaHlwOFJORWlRM2pVaE9DenJaYzJwOG55eFlfaC1VUTI2MVBaejFEVEp0UUVwRFhUQnE2ZVhsTk9PWDJoN3lEdUo1WUxCNGIyR0xDSFY2MWhqV1hzQkZhTlBKbFVyNnpKYThQNjh3aEhtRW5wLVFGNUtrYUltVnpCamtSUGsyeGhJNUlCYzUtN0pqVkVXWVhoRndNdEloWk54ZU9MN2ZwNW9nZWNTRy1jVFdFWkpIVl9pNjEyRVhUS3Q0VllIS0RVQWdyY2c?oc=5",
+    "data": "11/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
   },
   {
     "id": "dfregistramaisde2000picadasdeescorpiaoem2026",
