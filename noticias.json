@@ -130,6 +130,32 @@
     "termo_busca": "morte escorpião"
   },
   {
+    "id": "aumentodeacidentescomescorpioesacendealertanoestadodesp",
+    "titulo": "Aumento de acidentes com escorpiões acende alerta no Estado de SP - Gazeta de Rio Preto",
+    "descricao": "Aumento de acidentes com escorpiões acende alerta no Estado de SP  Gazeta de Rio Preto",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVM1cHh0NkpDSHRXN2xPNEVheHd2a3lqalZkMkRBdkVNdTlwdERwVWFxSUwyQU9VVGtHZzlvUGE2d3hMVDM4aFNObVd3WndRNlQyNlFKN0ZaZmdXdl9ZczFNbldNOVNzQTIzcXZtXzcySFBPbHpZTVl5VFRYUlFOamI1RFpUOWUwczlLRTYwT2ZGV1JYNW5DQk5TendBZVZZRFR3Yg?oc=5",
+    "data": "13/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Rio Preto",
+    "termo_busca": "escorpião amarelo"
+  },
+  {
+    "id": "maregistramaisdemilacidentescomescorpioes",
+    "titulo": "MA registra mais de mil acidentes com escorpiões - Imirante.com",
+    "descricao": "MA registra mais de mil acidentes com escorpiões  Imirante.com",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVjNBUzZBRnZXWFB4TWI1ek1sRXlKZUh0anhPaEF3cjc2aldPZVNMdWJpU0lUUGVYZUJVb1oxaUxQLUc3eWYyS1BEQXF6c1pZWm84R1ptSDNPQXdDSGZ2N2NCOUVMZTBnUnp5d1lrelhtTEM2ZXVWeGMyblNjZ2FuNnZIdF84bkNWRE94cHhPTHlyNW9DX29lbERQOXVYZ3k0dlItQjZUbmRyYXAzay1CbFJ6RkFmbEFkN09LLTVfWVc1RTQwYTBFUG5felV5WWd4TmphSUt0Nl9lM193STNMd9IB5gFBVV95cUxPbFR3ZWtQVVVRc0dvVTNxQVh0TkJwbllBQUVLVHdjd0YzZmUxMmZzalFxM3I3Z2pnd08wV3lqcTBmQ0w5U0xCbFNoNTY1RGZSdDdyamVMZU5rQkhnX0IzdVhfX25LMmRqckMwUWlEeFc4T3IycV9NLW9hV0JseUpFSU5Oa3hEUVdfdkdjTzJGN0xDZlZLaUVCU25vZWlRU3ZPV1dRMnhCLVRMNEh0c0JYeGVtQy1wTWQyQkhKbjNDbnFHVk8tSkdRQ1BzUk82S0I5ak5hQWxUME1BcDIzb0xHSER4TDgzdw?oc=5",
+    "data": "13/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "soro antiescorpiônico"
+  },
+  {
     "id": "venenodeescorpiaopodecausarefeitosmaisgravesemcriancas",
     "titulo": "Veneno de escorpião pode causar efeitos mais graves em crianças - A Notícia do Ceará",
     "descricao": "Veneno de escorpião pode causar efeitos mais graves em crianças  A Notícia do Ceará",
