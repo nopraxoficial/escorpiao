@@ -1,5 +1,31 @@
 [
   {
+    "id": "vigilanciaambientalreforcaorientacoesaposidentificacaodeescorpiaoemgramado",
+    "titulo": "Vigilância Ambiental reforça orientações após identificação de escorpião em Gramado - Onde ir",
+    "descricao": "Vigilância Ambiental reforça orientações após identificação de escorpião em Gramado  Onde ir",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTRUdlRwV2RmMTFwMzhZREJLeUduT1B5Ym9Qa1l5b21Ra3VJbmVQQlBuWnFZWjdCaW5BNTJVWi0taHItNERyRHJibW9TVnBkR0Uta0FTTDFZLXRXVGdhdzV3UnFodnhjR2RMYVB3VTY3XzZ3bzI3UUkyUG84X0pzQ2VCYXplcVZCenhqS3E5QU9Lc1llUG80TWlzdnlSNThrMUlsU09GeHdXenc2bm42RlBDWml5QQ?oc=5",
+    "data": "15/07/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "RS",
+    "cidade": "Gramado",
+    "termo_busca": "vigilância escorpião"
+  },
+  {
+    "id": "vigilanciaambientalalertaaposidentificarescorpioesemgramado",
+    "titulo": "Vigilância Ambiental alerta após identificar escorpiões em Gramado - Jornal Integração",
+    "descricao": "Vigilância Ambiental alerta após identificar escorpiões em Gramado  Jornal Integração",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm5wUXd1aFFZb3NnRXJlbEhRWVRjOWJFU3I4dmJlQUdFem9xaUg3SHNVaTNWUFlQeGtNYU9rM1pJZEotNndHeWdHOGk4dlFZUkwwWnNiVUlGWXUwSmpkcjIyYmQ0YTNrRlkyc0lNVlZHNmU4cENGX0FFNFlrZFRsd0N3eEhzdVhSZ3VySDBOSF84NmxQRnlSdzRZQWRVZUFjdU9F?oc=5",
+    "data": "15/07/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "RS",
+    "cidade": "Gramado",
+    "termo_busca": "alerta escorpiões"
+  },
+  {
     "id": "acidentescomescorpioesbalsaslideranumerodecasosnomaranhaoem2026",
     "titulo": "Acidentes com escorpiões: Balsas lidera número de casos no Maranhão em 2026 - O Imparcial",
     "descricao": "Acidentes com escorpiões: Balsas lidera número de casos no Maranhão em 2026  O Imparcial",
@@ -754,6 +780,19 @@
     "termo_busca": "alerta escorpiões"
   },
   {
+    "id": "especialistaalertacriancassaomaisvulneraveisaenvenenamentoporpicadadeescorpiao",
+    "titulo": "Especialista alerta: Crianças são mais vulneráveis a envenenamento por picada de escorpião - A Tribuna MT",
+    "descricao": "Especialista alerta: Crianças são mais vulneráveis a envenenamento por picada de escorpião  A Tribuna MT",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaUNlNGRsa1JWbjhrNVJQZUJ6WkZFVVlZOGxfUk5lNmt3WVFVQVA5cWNncGdtRkU5a2FOZzh3MEFFRkV2QlNlZXExN3F0T0lqYllfUEd4UlhfY2F6WDFjcEZnMTE0RWJscXNLZHNYVTBmZzQzTUQ0bndzR2ZnMVhBQnBpNzFXVVYwRFlzWDAxNFVZcF90SW1jUWZZcWFTNUZsc2ZsNllqWXduNHdnbWtkZldrZDk2cGlHUkt4YXE3T2E0SENvdHZ5VnNvbUNMSXVaX1ktbVMzdUdqT1M5TDgzQndZRkVSNjNVNFIyRQ?oc=5",
+    "data": "09/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião amarelo"
+  },
+  {
     "id": "criancade2anosemaisumavitimadepicadadeescorpiaonacidade",
     "titulo": "Criança de 2 anos é mais uma vítima de picada de escorpião na cidade - Jornal A Cidade de Votuporanga",
     "descricao": "Criança de 2 anos é mais uma vítima de picada de escorpião na cidade  Jornal A Cidade de Votuporanga",
@@ -1324,6 +1363,19 @@
     "estado": "MS",
     "cidade": "Navirai",
     "termo_busca": "escorpiões prefeitura municipal"
+  },
+  {
+    "id": "casosdeenvenenamentoporescorpiaodestacamvulnerabilidadeinfantilnobrasil",
+    "titulo": "Casos de envenenamento por escorpião destacam vulnerabilidade infantil no Brasil - Destak Jornal",
+    "descricao": "Casos de envenenamento por escorpião destacam vulnerabilidade infantil no Brasil  Destak Jornal",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU1Td1Zpc1VtU3V0U1lDakEwbkJxalhMYk85QWdhUUdLby0tRzdGVUVHc0l2RUNBRFF3T1lDX2NWc3NzM2ZvMGJmZ2tXcTJjUE92STVyaDJTaV9OSFhIWUF3cDRVOENGaFNSd01FbHRlOFZJTHVCQ19leGF4YjdYNTlQQVVtd1lsT1pmU3ZvNDVjRlpsU0xhTzlqQm9VSkxGSVo4MG5GYTBscG1kVmc?oc=5",
+    "data": "08/07/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião Brasil"
   },
   {
     "id": "escolaprestahomenagemaalunaquemorreuapospicadadeescorpiaonodf",
