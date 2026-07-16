@@ -26,6 +26,19 @@
     "termo_busca": "alerta escorpiões"
   },
   {
+    "id": "infestacaodeescorpioesmoradoresderiopretorelatamaumentoaposobrasnalinhaferrea",
+    "titulo": "Infestação de escorpiões: Moradores de Rio Preto relatam aumento após obras na linha férrea - R7",
+    "descricao": "Infestação de escorpiões: Moradores de Rio Preto relatam aumento após obras na linha férrea  R7",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQU1vTDRmdTBzN0thdTFQV1FRWnduZXlDQWl5dUEyaF81MUtTQlJERDBISTE1S1JJT0FXLWt0d2ZNV3ljbS1oVHQ2SDI0b0x1b2pnbFZveU5iSlZ6MkhMWmRYSElENHc2cVhQY0pPbmRYN2VQZk5WS2d0WkRuY1hxT0VjLWtIUk1pdDZKQmhXbS1RUVZJS1Npei1zcnc5bkpJbE5haTFJdTdBVTFWX3BwNFpOQXItbGtBU2l6LWMtQk1sZGRrRzJIUzNTMEswMzRFUS0zY293?oc=5",
+    "data": "15/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Rio Preto",
+    "termo_busca": "infestação escorpiões"
+  },
+  {
     "id": "acidentescomescorpioesbalsaslideranumerodecasosnomaranhaoem2026",
     "titulo": "Acidentes com escorpiões: Balsas lidera número de casos no Maranhão em 2026 - O Imparcial",
     "descricao": "Acidentes com escorpiões: Balsas lidera número de casos no Maranhão em 2026  O Imparcial",
@@ -1376,6 +1389,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "escorpião Brasil"
+  },
+  {
+    "id": "porquepicadasdeescorpiaosaomaisperigosasparacriancas",
+    "titulo": "Por que picadas de escorpião são mais perigosas para crianças? - SCC10",
+    "descricao": "Por que picadas de escorpião são mais perigosas para crianças?  SCC10",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWm16WTM1VkhjZTNMdElIM1p6a1NHZGdjR0l5YjJKS3dLSW8xY2JXbjdxLW9IMktZOW9NaVBJOXJSM2wwSmlWUFB2d3RqU2Z6b1NxMDAtUFdBQVZSczRoMU9CVm1WejVqamVCVDJHanZQZEtCeURRSGxSeHJfZnNlZUZXUV81bVNGUk1PZ25Cb3dOOGNjeG9Fb1QxSGRPNFhw?oc=5",
+    "data": "08/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "criança escorpião"
   },
   {
     "id": "escolaprestahomenagemaalunaquemorreuapospicadadeescorpiaonodf",
