@@ -143,6 +143,19 @@
     "termo_busca": "animais peçonhentos escorpião"
   },
   {
+    "id": "escorpioessaoencontradosemsalanohospitalsaopaulo",
+    "titulo": "Escorpiões são encontrados em sala no Hospital São Paulo - band.com.br",
+    "descricao": "Escorpiões são encontrados em sala no Hospital São Paulo  band.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0FCWHFNdlpFNzUyQjhEc2UzbHZaQS1QZnFuR2ZGdUlpTUphX0lnczE3LUdTcEk5RDhDMFl1RmdDN0ZfVEhDUk9JNVE4Q21mR09qc19oLVlTWUZPVGNpWHM2dTlkQ2lzcXNuUnJiOU4xblc5NjNXdW1UZFJrOFBNa2xOQTlHQ2k4X2NJZnAwRXAyU1A4SjdjMTROeHhLNk9CYnZJejZ6SkJOVmNEMHYtaHQ4R0tkR2VUYlJvSWwwbEdEZw?oc=5",
+    "data": "17/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "termo_busca": "escorpiões Brasil"
+  },
+  {
     "id": "qualquerescorpiaoepotencialmenteperigosoevenenopodematar",
     "titulo": "Qualquer escorpião é potencialmente perigoso e veneno pode matar - Dhoje Interior",
     "descricao": "Qualquer escorpião é potencialmente perigoso e veneno pode matar  Dhoje Interior",
@@ -1569,6 +1582,19 @@
     "gravidade": "moderada",
     "fonte": "Google News",
     "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "criança escorpião"
+  },
+  {
+    "id": "criancasestaoentreasprincipaisvitimasdeenvenenamentoporpicadasdeescorpiao",
+    "titulo": "Crianças estão entre as principais vítimas de envenenamento por picadas de escorpião - ParaibaOnline",
+    "descricao": "Crianças estão entre as principais vítimas de envenenamento por picadas de escorpião  ParaibaOnline",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdVhqMElQTEJwS0RFZDdfQ2VwYjVmQWNuT2U3UUVMTEYwMlFmcjVfQm9RNHp5c3RvaGVLcWNBNFdfMlo3S1J2cmlfYUlpejdSYTU4NmgtdmJDOV8xdkh4TnI3blZYVmdUcFFRME5xWlo0T2ZKTjM1TV92REJJMUIzaHNKbEcxaUo1dzhvQmJqSnVlYTJ0TGNIeWE1dEJmdG9jWGdoaFgxNm1IRFRUdVpvc05HY0xJQjA1LWNLV2prWVlGN3BWNHMtdG5ZMWRzZw?oc=5",
+    "data": "08/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "PB",
     "cidade": "Não identificada",
     "termo_busca": "criança escorpião"
   },
