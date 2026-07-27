@@ -1,5 +1,18 @@
 [
   {
+    "id": "vigilanciaambientaldesapirangasecapacitasobreescorpiaoamarelo",
+    "titulo": "Vigilância Ambiental de Sapiranga se capacita sobre escorpião-amarelo - Jornal Repercussão",
+    "descricao": "Vigilância Ambiental de Sapiranga se capacita sobre escorpião-amarelo  Jornal Repercussão",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdy1WaTlWZXJZa21oaEd4VUJTVzJsVjhqdUxmclRMQmJYZkFlQjVFSTBxR2p3MWczSDRRcmEtV0xhMWpnd2NkenRJOXdoZ0QxdG1lWjN5RGtnVGxodzlIbVc5RHBGWFBpSnRBQWtZc2NGbFY4S194cmcyejBXemgxUFY0LWVuN0liWWNsZ05IZjVuMjJMT093OTZYaDNIS3JvSWFUMHBCMFZqWXdnX1Iyd0NaSXBnRHc?oc=5",
+    "data": "27/07/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "RS",
+    "cidade": "Sapiranga",
+    "termo_busca": "escorpião amarelo"
+  },
+  {
     "id": "picadadeescorpiao",
     "titulo": "picada de escorpião - Jornal ARua",
     "descricao": "picada de escorpião  Jornal ARua",
@@ -2624,6 +2637,19 @@
     "estado": "DF",
     "cidade": "Não identificada",
     "termo_busca": "escorpião Brasil"
+  },
+  {
+    "id": "meninamorrepicadaporescorpiaonodffamiliaaleganegligencia",
+    "titulo": "Menina morre picada por escorpião no DF; família alega negligência - G1",
+    "descricao": "Menina morre picada por escorpião no DF; família alega negligência  G1",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2xVZ2g4SVRvZE5MNEVHVkZaZTZfcjctMWw3SEJQbk9PdlVHUnl2RGgzTS1FWjc2X1RpZEhMM2VEc05OYzRNTng2SHBoeDFMamFsclhnSVc4d2J3ZHdJQWZFWGhSNGd6cW8tU1VEaTJPcGRvcUszc2hMdkY5WUJtN1NaVGRESmZkYTRONTdFdi1xandHSE1PbHNLd1BNY0kxTXc?oc=5",
+    "data": "06/07/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
   },
   {
     "id": "bentogoncalvesregistraquatrofocosdeescorpiaoereforcaorientacoesdeprevencao",
@@ -7423,6 +7449,19 @@
     "termo_busca": "escorpião amarelo"
   },
   {
+    "id": "moradorencontraescorpiaono4andardeprediodebiguacu",
+    "titulo": "Morador encontra escorpião no 4º andar de prédio de Biguaçu - G1",
+    "descricao": "Morador encontra escorpião no 4º andar de prédio de Biguaçu  G1",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlFLQ284YVRXZXNlUVlPQ09yZW9tZldGeDVmZWQ2X3llZjE4SkNfRldDajkwamhUbVVZNGFHRzNVbElVUDgyNjV3ZjFuT1g5cTRwRkx2bjQ2M3RyNFYydVJ2RXVkeFVUWWdZdVk2NkpOR0diczRyc3RRLU9QYlNwMndRdERhSDVPN3NnY3VsdDJTX1hMRGFTb2dUZVFWYnZTR1Z6WGY2UU5Ya0szU2hNNGdORWZXNWdSOUY0Zl9PTDJFbzJ6NjhBZVZWWUZEOWdkUEFfSkZfOA?oc=5",
+    "data": "18/04/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "SC",
+    "cidade": "Biguaçu",
+    "termo_busca": "infestação de escorpiões"
+  },
+  {
     "id": "chegaramate4andar109escorpioessaoachadosnomesmocondominioemsc",
     "titulo": "Chegaram até 4º andar: 109 escorpiões são achados no mesmo condomínio em SC - UOL Notícias",
     "descricao": "Chegaram até 4º andar: 109 escorpiões são achados no mesmo condomínio em SC  UOL Notícias",
@@ -8513,6 +8552,19 @@
     "estado": "AM",
     "cidade": "Não identificada",
     "termo_busca": "animais peçonhentos escorpião"
+  },
+  {
+    "id": "corpodebombeirosreforcacuidadosparaevitaracidentescomescorpioes",
+    "titulo": "Corpo de Bombeiros reforça cuidados para evitar acidentes com escorpiões - SEMANA 7",
+    "descricao": "Corpo de Bombeiros reforça cuidados para evitar acidentes com escorpiões  SEMANA 7",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1BZOXRlV1lhcGxiamlJdUNwSmV3aUZNdnNMejY4TVRwS0RaTXdkNW5XQTdLSndmdlQ2VGJVdW0wQy1LZjNHTDNwZDRyZ1ZVakdmNVhwcVVOMFVSUHU3M0RVUmx1d0VlNGMwSE9sUkUxUTVHdndxMHVPWTA4SEhRT2owNVVGRG1yZHJyWUlHOWNWeWg1V183a0h6WC1XZ1hHaDB0ZkE1ME5iR3hhZGhKdENyX0FrWVVKS2MwTQ?oc=5",
+    "data": "08/04/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "prevenção escorpiões"
   },
   {
     "id": "picadadeescorpiaocobraouaranhaprocureatendimentonasantacasa",
