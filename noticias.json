@@ -9490,6 +9490,19 @@
     "termo_busca": "criança escorpião"
   },
   {
+    "id": "criancapicadaporescorpiaoeentubadaemriopreto",
+    "titulo": "Criança picada por escorpião é entubada em Rio Preto - G1",
+    "descricao": "Criança picada por escorpião é entubada em Rio Preto  G1",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTzV3ai1PdXVORGJVQzA5N0d4WHM3VzZsX1p2dlk4LVR5d1JYeHgyaW1OamRSdHNBWWd5d01uaF9UNkxFbjNHYXRRbS1oWmEweldXWUJlM3J1bXJfOTdQR2hKa2hLRjBfaUM4dDk3eTBrOVBTVTk0c3dnNTktZ0R0QlNBRlVxRElsaFVET1lzZ1FXSjc4RUFrOTVoV1I4MjdvZDB4VF9YeXZTTUFoUVdHQW5BYVhfSFZXZ0tCbUhjc1AxbXVfdUktZzFCMGtPaVZwdm1HVnV4Q1MzcGFJaVQ0T3owMmV2MEtWTTQzTFNNWVM?oc=5",
+    "data": "23/03/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Rio Preto",
+    "termo_busca": "picada de escorpião"
+  },
+  {
     "id": "escorpioesmarataizesorientapopulacaoaposaumentoderegistros",
     "titulo": "Escorpiões: Marataízes orienta população após aumento de registros - folha do es",
     "descricao": "Escorpiões: Marataízes orienta população após aumento de registros  folha do es",
@@ -10190,6 +10203,19 @@
     "estado": "SC",
     "cidade": "Trombudo Central",
     "termo_busca": "alerta escorpiões"
+  },
+  {
+    "id": "vigilanciasanitariacapturaescorpioesduranteacaodemonitoramentoemxanxere",
+    "titulo": "Vigilância Sanitária captura escorpiões durante ação de monitoramento em Xanxerê - Oeste Mais",
+    "descricao": "Vigilância Sanitária captura escorpiões durante ação de monitoramento em Xanxerê  Oeste Mais",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWndXOEhqS0Z5ZEhLUjdOQnBueFYwcXNMd01KRDdPYXVRSEhvV05QV3V3R2pmSDJFZ1UwVmRtNDNzM0dQZmV0LUxzTDhUc3VIUkVaS1ZscUlDb1hKZFp6elJZNktWZllENXRDQ19MbFpzOVRIVE9zR2g2bGZlSVRvSmNaWi1aNEdWcTRpUFlXWlh6VmZzMi1mUlhVb1F0aEMxa1RjMUE3bTdZZ3ZEMmU1M1dnVkY1Z3QtWlJBMkNNU2M3SWhDYWd3?oc=5",
+    "data": "27/02/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "SC",
+    "cidade": "Xanxerê",
+    "termo_busca": "captura de escorpiões"
   },
   {
     "id": "smsrealizablitzeducativasobreprevencaoecuidadoscomescorpioesemtreslagoas",
