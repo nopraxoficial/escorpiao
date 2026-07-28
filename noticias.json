@@ -1,5 +1,18 @@
 [
   {
+    "id": "jundiaireforcaprevencaocontraescorpioesaposaltadeacidentesnointeriorpaulista",
+    "titulo": "Jundiaí reforça prevenção contra escorpiões após alta de acidentes no interior paulista - G1",
+    "descricao": "Jundiaí reforça prevenção contra escorpiões após alta de acidentes no interior paulista  G1",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQmxtYzliSE1fZEpjS1RjbGptNmJnS1FleE5MaG1HWmxlS0N1MmttdlZyZkRCaXRxeVVjMV96SDlWdTFJWXpJNVpPWjNRaG9PYm9ISnU2MkFscF9yb1loeUd5dkJnUGNON0J0cTdUblpRaWRSMk16QWRzMGFuMEtqRm1vaXh4OTdxZEE1Uk5EZVp3dUxHbzF5b1FMOUtRcUcyTGZOTkFIS3NHZXQ5MjZnTTRpSmVlZ2JnX0gzLVExWTYtYlhjTXd1OTRGVElhQ21CUVJvazNYdGdUX1FtODNPU1ZfTG1uVExwblgwWnQxTHNFcC1PNTRXNnBNdk9weXhuUWlpQWhpTWJnS1YwX1dVM2RUb9IBkwJBVV95cUxQQmxtYzliSE1fZEpjS1RjbGptNmJnS1FleE5MaG1HWmxlS0N1MmttdlZyZkRCaXRxeVVjMV96SDlWdTFJWXpJNVpPWjNRaG9PYm9ISnU2MkFscF9yb1loeUd5dkJnUGNON0J0cTdUblpRaWRSMk16QWRzMGFuMEtqRm1vaXh4OTdxZEE1Uk5EZVp3dUxHbzF5b1FMOUtRcUcyTGZOTkFIS3NHZXQ5MjZnTTRpSmVlZ2JnX0gzLVExWTYtYlhjTXd1OTRGVElhQ21CUVJvazNYdGdUX1FtODNPU1ZfTG1uVExwblgwWnQxTHNFcC1PNTRXNnBNdk9weXhuUWlpQWhpTWJnS1YwX1dVM2RUbw?oc=5",
+    "data": "28/07/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "PE",
+    "cidade": "Paulista",
+    "termo_busca": "prevenção escorpiões"
+  },
+  {
     "id": "vigilanciaambientaldesapirangasecapacitasobreescorpiaoamarelo",
     "titulo": "Vigilância Ambiental de Sapiranga se capacita sobre escorpião-amarelo - Jornal Repercussão",
     "descricao": "Vigilância Ambiental de Sapiranga se capacita sobre escorpião-amarelo  Jornal Repercussão",
@@ -284,6 +297,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "prevenção escorpiões"
+  },
+  {
+    "id": "prefeituraintensificacombateaosescorpioescomforcatarefaemwenceslaubraz",
+    "titulo": "Prefeitura intensifica combate aos escorpiões com força-tarefa em Wenceslau Braz - Folha Extra",
+    "descricao": "Prefeitura intensifica combate aos escorpiões com força-tarefa em Wenceslau Braz  Folha Extra",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcGh2a3lYMlFOOUZ1RzJyX0RLVVN2eTB0RnpPYndvU3htOEYzdGhyZ242c2NYNk1GU0JiSVlqaHlPZHphb0dwLXYzTzZCVm4waWxFUGtfZGFsMHo2R0tFSHYxTWpxNlhvUXRubjNUWTBoY00tRS1MR1dpMnEtSll4SVNPb1hsSGp4TG5UMWJJRDF5UFEtUUdselI1LWs4TkpUYThZVXFhMkhiSy0xQkZMX18wX1BfX1Jq?oc=5",
+    "data": "20/07/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "PR",
+    "cidade": "Wenceslau Braz",
+    "termo_busca": "escorpiões prefeitura municipal"
   },
   {
     "id": "biologosrecomendamqueosmoradorestampemosralosanoiteporquecadavezmaisescorpioesestaoentrandosilenciosamentenosbanheiros",
