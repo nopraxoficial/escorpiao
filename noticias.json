@@ -13,6 +13,45 @@
     "termo_busca": "captura de escorpiões"
   },
   {
+    "id": "queirozrealizabuscaativacontraescorpioesemareacomregistrosdeinfestacao",
+    "titulo": "Queiroz realiza busca ativa contra escorpiões em área com registros de infestação - TupãCity",
+    "descricao": "Queiroz realiza busca ativa contra escorpiões em área com registros de infestação  TupãCity",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb3R5anZ2dE95MlhYQ2tBeGdUMVhzdVVzdDNsd09qWlFYajhvV2JBVm9QNXNLckRGcE1yYy0tUV8zaGlvdTRISTFRblVPT0tjbHlMSzh4N2ZYQkplb2JvWXJzbEw0dWxwV0VrT0xKSkk4SjZwb1cwUnEzejRGNGJyODNLZ1Q0cXhQWWdRSnVQSWlmU19jMnRnWkpfdm9vWUJJZS0zVXp4cm5aNXBFcEJwWXh5VUNQUUk?oc=5",
+    "data": "07/08/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Queiroz",
+    "termo_busca": "infestação escorpiões"
+  },
+  {
+    "id": "ibiporaregistra16casosdeanimaispeconhentosemjulhoereforcaalertacontraescorpioes",
+    "titulo": "Ibiporã registra 16 casos de animais peçonhentos em julho e reforça alerta contra escorpiões - jornaluniao.com.br",
+    "descricao": "Ibiporã registra 16 casos de animais peçonhentos em julho e reforça alerta contra escorpiões  jornaluniao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTMxWUxqNTlPczZJX1R2NHgwMGxUd0pjcWdsLXdlUElsUWtOSUxSVXVWeTZaRGcxWjRGWjE5anhuaVQ5RlNCYzZhSXF0MG1ZUjNqeUhucW5sa0lhSi1VWlR5TWVLUDdUSmVjaGxDeXhHWUQtYnFzWml3NmtEbk5BNWJYUW1teXFoQXRkYlVDai1BSTFYVTlSRGEtLTUtWFQ0Qlo0ZU1KZjFGY3gzS2dQNDFFV01BZFloNVRUdjVUalZlN1RFNEh3YjJXM0N2d0RGSW9J?oc=5",
+    "data": "07/08/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "PR",
+    "cidade": "Ibiporã",
+    "termo_busca": "animais peçonhentos escorpião"
+  },
+  {
+    "id": "vigilanciaambientalintensificaacoesdecontroledeescorpioescombuscaativaeorientacaoapopulacao",
+    "titulo": "Vigilância Ambiental intensifica ações de controle de escorpiões com busca ativa e orientação à população - Prefeitura Municipal de Aracruz",
+    "descricao": "Vigilância Ambiental intensifica ações de controle de escorpiões com busca ativa e orientação à população  Prefeitura Municipal de Aracruz",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMGVoaTdYQ2lnQVJ1cThEMVpaYUJDVTk1N1pnNEtJOUpHUEhUYW1DZWlJTlpTbjB4UUpETlVTVERrQ0dKOS1fNFVtSDlpV05DTzRyb0FPbmpEZDVVR29SaHpsQzJJLXNpd0ljMWphck5MSG1XZFNaREVuVTFHd1Y3WjA0dXduZTExZFV3d1NGcXRvbi1EVWtEQ0ktRVhKbzU0ZExtLVFDWnJ2UXhmRHZEQlJiTnhsUFRoRnB6OGJMS0dJcVdGQldSbUdRYVduTWlsTkMtVWJDaFI1OG85Zm13?oc=5",
+    "data": "07/08/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "ES",
+    "cidade": "Aracruz",
+    "termo_busca": "controle de escorpiões"
+  },
+  {
     "id": "criancavitimadepicadadeescorpiaosuperaparadacardiacaedeixautinodiadoaniversario",
     "titulo": "Criança vítima de picada de escorpião supera parada cardíaca e deixa UTI no dia do aniversário - Jornal Somos",
     "descricao": "Criança vítima de picada de escorpião supera parada cardíaca e deixa UTI no dia do aniversário  Jornal Somos",
