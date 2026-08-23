@@ -1573,6 +1573,19 @@
     "termo_busca": "alerta escorpiões"
   },
   {
+    "id": "picadadeescorpiaosaibaoquefazerecomopreveniracidentes",
+    "titulo": "Picada de escorpião? Saiba o que fazer e como prevenir acidentes - Associação Paulista Para o Desenvolvimento da Medicina",
+    "descricao": "Picada de escorpião? Saiba o que fazer e como prevenir acidentes  Associação Paulista Para o Desenvolvimento da Medicina",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUl3WXZQbUlnRTF2d0hNXzBnNGpsdDEtM3ZzUEhpLUFXVlB0b01NdmhMWXRVVGtuenZiR1A4ZWk0R2V0Q2RNVlR1QVNxVXltQjRybFhETzl6Qm5BMmhiQ0xlWXpINW1hZVBJdEU4QlVZem01Qml5V00yZUFUSlFrZjgzbjZUTl83ZkJ4aDhocUxvTDg?oc=5",
+    "data": "04/08/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "PE",
+    "cidade": "Paulista",
+    "termo_busca": "picada de escorpião"
+  },
+  {
     "id": "lemealertaparaimportanciadalimpezanocombateaosescorpioes",
     "titulo": "Leme alerta para importância da limpeza no combate aos escorpiões - Porto Ferreira Hoje",
     "descricao": "Leme alerta para importância da limpeza no combate aos escorpiões  Porto Ferreira Hoje",
@@ -8018,6 +8031,19 @@
     "fonte": "Google News",
     "estado": "RN",
     "cidade": "Espirito Santo",
+    "termo_busca": "captura de escorpiões"
+  },
+  {
+    "id": "cidadedoesentraemalertavermelhoaposcapturadecentenasdeescorpioes",
+    "titulo": "Cidade do ES entra em alerta vermelho após captura de centenas de escorpiões - Folha do ES",
+    "descricao": "Cidade do ES entra em alerta vermelho após captura de centenas de escorpiões  Folha do ES",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTJpQ0VOeXF1NGd3WXJYekV5ZHU4N1drNzhEb1R2MnBSSnkzVjhGMDFzS0ozZjVQU0hsS0ZSaGR5MkJZcGFPTGFMNHMzMm1JZHZES2tjRHNzMnB4S015MHRhXzNtNnNQOWJmZG1fY2o1aTg5UWJoMXBTWTgtMGJLVThvc0VNaVpYM3FzVDJWZklBNl8zTzhiSFpsaUw1MzZT?oc=5",
+    "data": "25/05/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
     "termo_busca": "captura de escorpiões"
   },
   {
