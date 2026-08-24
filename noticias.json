@@ -39,6 +39,32 @@
     "termo_busca": "picada de escorpião"
   },
   {
+    "id": "semanaestadualdeenfrentamentoaoescorpionismoteraacoesdeprevencaoemsaocarlos",
+    "titulo": "Semana Estadual de enfrentamento ao escorpionismo terá ações de prevenção em São Carlos - São Carlos no Toque - São Carlos no Toque",
+    "descricao": "Semana Estadual de enfrentamento ao escorpionismo terá ações de prevenção em São Carlos - São Carlos no Toque  São Carlos no Toque",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTC1aMnlpcktRRldJanNjZVZHa3ZfU1VQY1AwTS1yVksxWmd3UFV6T01CbjJLeGg3bFRnYktOaXEwRWxyYks3OURISXpKNmlyYzlFOWN0dUoxYXUwM3JYV21VTm83eTVoLTc3VnR4dFhvUTAxLVNXNk1iSE1LZlctWTdRWk10dHhkclg4ZU1vckRlTkYtZEU5V2Q0eVhMY242ZHhUSUhMNDZjMXZISTM5Sm8yOVRQMXU3cUhEQXRR0gG-AUFVX3lxTFBMLVoyeWlyS1FGV0lqc2NlVkdrdl9TVVBjUDBNLXJWSzFaZ3dQVXpPTUJuMkt4aDdsVGdiS05pcTBFbHJiSzc5REhJeko2aXJjOUU5Y3R1SjFhdTAzclhXbVVObzd5NWgtNzdWdHh0WG9RMDEtU1c2TWJITUtmVy1ZN1FaTXR0eGRyWDhlTW9yRGVORi1kRTlXZDR5WExjbjZkeFRJSEw0NmMxdkhJMzlKbzI5VFAxdTdxSERBdFE?oc=5",
+    "data": "24/08/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Sao Carlos",
+    "termo_busca": "escorpionismo"
+  },
+  {
+    "id": "escorpioesestaoportrasde60dosacidentescomanimaispeconhentosemcuiaba",
+    "titulo": "Escorpiões estão por trás de 60% dos acidentes com animais peçonhentos em Cuiabá - Primeira Página",
+    "descricao": "Escorpiões estão por trás de 60% dos acidentes com animais peçonhentos em Cuiabá  Primeira Página",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUVEZ1ZJWFlsWmlGYkNLSkxJR1dQQjBjbm9sdW51NjRPNjBpRFk0SzZiODV2X242WEdyY0l3QjNSWG1SeEN1RW5WNHd5LTNZZVNkZ2ZOT3JyWTlQZTltZS1SN25meTlJUzZ5SW9MVkctWlRZWGVEalpnWTNtMnRkcDVKeDhRY2MtV3VvdEFyN3dieUhVeC03MnFTcWF2Q1N2bjRvQ3N2S3NvMFZWOXhOYWtaWURDOFVSdkhEdHJ6WGwwUTljXzE3SmJUQQ?oc=5",
+    "data": "24/08/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "animais peçonhentos escorpião"
+  },
+  {
     "id": "criancade10anosepicadaporescorpiaoemjacarezinhoerecebesoroantiescorpionico",
     "titulo": "Criança de 10 anos é picada por escorpião em Jacarezinho e recebe soro antiescorpiônico - Tabajara Notícias",
     "descricao": "Criança de 10 anos é picada por escorpião em Jacarezinho e recebe soro antiescorpiônico  Tabajara Notícias",
@@ -960,6 +986,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "morte escorpião"
+  },
+  {
+    "id": "vigilanciasanitariaalertaparaaparecimentodecobraseescorpioesnaareaurbana",
+    "titulo": "Vigilância Sanitária alerta para aparecimento de cobras e escorpiões na área urbana - Tribuna do Vale",
+    "descricao": "Vigilância Sanitária alerta para aparecimento de cobras e escorpiões na área urbana  Tribuna do Vale",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2xLVTV0ZnlQTTF3RHd1ajlZb0pWOTAzRjRTaHdRYkV1ZGlXNFUzTDVub3M1VzhvZ1FaYklVVEUta2pPaUJraTc1T0JfWkthOWlkOHN6Z204a00zN3JxcVAybV9TNlJHRVhKOVVyZ1d1OTI3N0NVcUg0NG5adEV6OFBidHR5NnZKSk1CeXo5RmNrNXJVdjA1RnB5SXo0N3V4RWpMYVJHTDk3eGlmZjR3ZXFVN0pzQ1NlbDJTYzlPSzgwQQ?oc=5",
+    "data": "13/08/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "vigilância sanitária escorpião"
   },
   {
     "id": "medicoindiciadopormortedemeninodisseapoliciaquenaosabiaprotocoloparapicadadeescorpiaonuncafoipassado",
