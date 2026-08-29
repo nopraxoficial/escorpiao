@@ -1,5 +1,44 @@
 [
   {
+    "id": "apos16casosem2026valinhosteraqueinformarondehasorocontrapicadadeescorpiao",
+    "titulo": "Após 16 casos em 2026, Valinhos terá que informar onde há soro contra picada de escorpião - Jornal Terceira Visão",
+    "descricao": "Após 16 casos em 2026, Valinhos terá que informar onde há soro contra picada de escorpião  Jornal Terceira Visão",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWg0UHBvdnkzdUpveGY5TWNPR3ZBeXE4Z2pnTGVsRnpXU3h6ZVVlN3UwUUp3TVkzTlpoZG9rUS1WQmREOGFvdUhUcWROVWNaSi1EVEpXemNDX2dQNm95eURWclNtaUJUeG1Gc3RaOFZQMGNRUW1fWW9ZVTZIWkszSTJGUnJCc01RNXZHdWxwb0s?oc=5",
+    "data": "29/08/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Valinhos",
+    "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "saudereforcaalertaparaperiododereproducaodosescorpioes",
+    "titulo": "Saúde reforça alerta para período de reprodução dos escorpiões - O Regional",
+    "descricao": "Saúde reforça alerta para período de reprodução dos escorpiões  O Regional",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejBOX013YW9hMUljX25XdHhRWHRzV2FCWUtYbmlNbWZER2NTSGxkTXNETGF4NWJJdHRLWlpySUFmcmtTNTl5UXRFYjU2blhlUGZfbE02X1RNUnhZS2x5VWRmQmQzMWpLVFc1TU95X2dUUlJmZXR0VlBaWUppYkVtU2J3SU95TW91UnlxdVhqczJybXROU1N0TmhDZzdWSDlMT0E?oc=5",
+    "data": "29/08/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "BA",
+    "cidade": "Saude",
+    "termo_busca": "alerta escorpiões"
+  },
+  {
+    "id": "secretarioalertaparaperigodeacidentescomescorpioesembarbosaferraz",
+    "titulo": "Secretário alerta para perigo de acidentes com escorpiões em Barbosa Ferraz - Tribuna do Interior",
+    "descricao": "Secretário alerta para perigo de acidentes com escorpiões em Barbosa Ferraz  Tribuna do Interior",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnhFenVxODVHREZ6aHBNb3lZNWlPUUZGT2FBTXZvdTdHdnU4LU9odEJEcWdvWmVTUkFYS2NUUDRMemVxVHdSb19xVU9BU00tNlJKZWl4S3ZDdFBkMWt6LXhYVXg3WGswT25kdW1GMVNkUmxqbDF2anRFc0l6LTRiUWJNMjhuQ2Nua1NwUGFZUGV4VXRPdWlVYk15M1Z4WGFTZjUxSkN2bVFHZUNGT2hJekZKSzdjRVhaWi1ZaA?oc=5",
+    "data": "29/08/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "PR",
+    "cidade": "Barbosa Ferraz",
+    "termo_busca": "alerta escorpiões"
+  },
+  {
     "id": "medicarecemformadaedenunciadapormortedecriancapicadaporescorpiao",
     "titulo": "Médica recém-formada é denunciada por morte de criança picada por escorpião - Metrópoles",
     "descricao": "Médica recém-formada é denunciada por morte de criança picada por escorpião  Metrópoles",
@@ -102,6 +141,32 @@
     "estado": "SP",
     "cidade": "Birigui",
     "termo_busca": "prevenção escorpiões"
+  },
+  {
+    "id": "criancade10anosepicadaporescorpiaonazonaleste",
+    "titulo": "Criança de 10 anos é picada por escorpião na Zona Leste - Portal da Cidade - Mogi Mirim / SP",
+    "descricao": "Criança de 10 anos é picada por escorpião na Zona Leste  Portal da Cidade - Mogi Mirim / SP",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVRWRDZpLVBFU2tLT2pLTXc0TGhzZVlXdWVHUGFqZ3YxWmE5aFJ6d3RLeUlUaXFQb2FUOVBIWlBBTVp3U2lsUlZ4TDIxR3RWaWFyNWZrejNab3VVdzRvc2psMlQ1Rm9aUF9NSnJEV2cwQmFMSFJNVmloYVd2UGlDTnlPSkxZbDlsSUxmY2xySk9RTF9HbEo5Q3ExRHZYQTd0cmJLZHNTSHBFYzNZYUlRN2NB?oc=5",
+    "data": "28/08/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Mogi Mirim",
+    "termo_busca": "acidente escorpiônico"
+  },
+  {
+    "id": "escorpioesavancamepreocupammoradoreseautoridadessanitarias",
+    "titulo": "Escorpiões avançam e preocupam moradores e autoridades sanitárias - Gazeta de Pinheiros",
+    "descricao": "Escorpiões avançam e preocupam moradores e autoridades sanitárias  Gazeta de Pinheiros",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2RvNDdLcGtGLUM4M0NaTzBPZXAzQXpTekp4eTNfLWdET1JzUGhadkptVUktVWgtUmZTVTMtNXV5cllESC05djFSSFplczAxTml3bTlfa0pzZll0UExlSWlUWFZXcEpBVURzQVRUeVJUelFOT09NM2hyWW5ua19CeDNnWEJGcWd5WVo4eU5wZlV4bUVoVDJpRE1kaTdubElSVW9oYTBFMm1YZmFPUTBV?oc=5",
+    "data": "28/08/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "ES",
+    "cidade": "Pinheiros",
+    "termo_busca": "alerta escorpiões"
   },
   {
     "id": "bemvivervenenopodeatrairmaisescorpioeseaumentaroperigoalertabutantan",
@@ -401,6 +466,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "ijfalertaparaprevencaocontraescorpioesduranteperiododereproducaohospitalsomamaisde2500atendimentosem2026",
+    "titulo": "IJF alerta para prevenção contra escorpiões durante período de reprodução; hospital soma mais de 2.500 atendimentos em 2026 - Prefeitura de Fortaleza",
+    "descricao": "IJF alerta para prevenção contra escorpiões durante período de reprodução; hospital soma mais de 2.500 atendimentos em 2026  Prefeitura de Fortaleza",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUHljMTYtRnpuMlN0Q2pMcXNkbW43OTBrckRtZFVHUXMxVUtYQVR5UktEMlhrMndGYWc5SVFCQThCZHc3YjIzQUV0REZ0d0piQUpZSXJTWHhvLUs3ME9jSFhqakd1bGZIX01uSEIzRHJEaDdVZXRpel93TThuSHFhSmQtbEZMMFQtWjhRZVhYQjlGbGZlSko5OXJ5N0R0ZEdqTUEtdjhraTV2NGMyV3VRTVNuX3dSUVFtLXdSZnYzeXNQS1pHMGpxSTc5RklRSERTTFlfckFmZkpyZ01SQTFsRFNiRHdWVDE4RE9KUElHWTEySlhNRlE?oc=5",
+    "data": "26/08/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "CE",
+    "cidade": "Fortaleza",
+    "termo_busca": "soro antiescorpiônico"
   },
   {
     "id": "mpdenunciamedicadeupapornegligenciaefalsidadeideologicaaposcriancamorrerporpicadadeescorpiao",
@@ -14519,6 +14597,19 @@
     "estado": "SP",
     "cidade": "São Paulo",
     "termo_busca": "escorpiões Brasil"
+  },
+  {
+    "id": "alertaforcatarefacaptura14escorpioesamarelosemgravatalmunicipiosoma58registrosemjaneiro",
+    "titulo": "Alerta: força-tarefa captura 14 escorpiões-amarelos em Gravatal; município soma 58 registros em janeiro - Hora Hiper",
+    "descricao": "Alerta: força-tarefa captura 14 escorpiões-amarelos em Gravatal; município soma 58 registros em janeiro  Hora Hiper",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdl9ZeTVHQWNOVzR0LWNfYVpoSmNnM21QNHFSU0RSMHkxSnNpWm9PTi10U2ZQMGF0bnpXOXlBcXFfV0JJekZkNExQZ2hCX2U0TV9ZUElDXzJlSlRBczB2bGp4ZjAzS1E0VEF6eHB0QjVicUR1Qi1naHlCQ1NDejMwR05UMnMzZ3UzS1hGbGNNY1MzTUc0dlhCVU9HX1VlTjJzemRtc2gxWDhZb0YxcnlqQjUzQlJKekphRFhCQ1hjeGFVLURPUWhkbGUteFdNSFZ0d0oySA?oc=5",
+    "data": "21/01/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "SC",
+    "cidade": "Gravatal",
+    "termo_busca": "captura de escorpiões"
   },
   {
     "id": "5mitossobreocombateaescorpioesquepodemaumentaroriscodepicadas",
