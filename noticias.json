@@ -13,6 +13,19 @@
     "termo_busca": "prevenção escorpiões"
   },
   {
+    "id": "guararemaorientamoradoressobreprevencaoaacidentescomescorpioesemsetembro",
+    "titulo": "Guararema orienta moradores sobre prevenção a acidentes com escorpiões em setembro - diarioesp.com.br",
+    "descricao": "Guararema orienta moradores sobre prevenção a acidentes com escorpiões em setembro  diarioesp.com.br",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb21IN1ItcGI4dnRIN2RQWXluMG9LVzQxcmY3WUp1UkNDQXN4ZnN2LUFiNzg2YjFyTjhpa0VwT2pvWHFGSkpBVU9Zd29xa29tRC1xcng3Mkwxa0NTY3FMbzF3UkFaX195NXNTLVF6T3JySW9oaWhOczJFTW1zbTFRSkhDSE1EVExDcGlySEtEdllHWWo1b2VOQmtkcUxkbTBwZ1RVX0ZwOTBIdTdBbkhsR0FVN0VoSF9GN0FNWjA1UzBwWktGVVFOVTBFTXg3dw?oc=5",
+    "data": "01/09/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Guararema",
+    "termo_busca": "prevenção escorpiões"
+  },
+  {
     "id": "ovalemedicaedenunciadapormortedemeninapicadaporescorpiao",
     "titulo": "OVALE: Médica é denunciada por morte de menina picada por escorpião - sampi.net.br",
     "descricao": "OVALE: Médica é denunciada por morte de menina picada por escorpião  sampi.net.br",
@@ -76,6 +89,32 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "criança escorpião"
+  },
+  {
+    "id": "gcnmeninade11anosepicadaporescorpiaoemsaladeaula",
+    "titulo": "GCN: Menina de 11 anos é picada por escorpião em sala de aula - sampi.net.br",
+    "descricao": "GCN: Menina de 11 anos é picada por escorpião em sala de aula  sampi.net.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckJoaE8wd0x6aDBVaVFXY1JzTmNtdDU0RWM0cnNLYzU5V3pGS28tYktjZjIydFFhS1BpSE9oUFEtWEsyMmlpR1RWRVVIXzl3VVJreEJYSU9WUXFTb3I2OFRsQjlmck52SWxRUmZMd0VuQjNfWVNSQ0xTVVZQdTV3aTFublVWUUt1bXJMUGpWNEo5elZySDNBb29MWG1aX2NySnVGcHlBckVKaUJFek5jamNwVG54dw?oc=5",
+    "data": "31/08/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "baratasatraemescorpioesentendacadeiaquepodeseformardentrodecasa",
+    "titulo": "Baratas atraem escorpiões? Entenda cadeia que pode se formar dentro de casa - UOL Notícias",
+    "descricao": "Baratas atraem escorpiões? Entenda cadeia que pode se formar dentro de casa  UOL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUl9Rblcyci1yTWZsRjJVeG9WMzFlQXJlaXNYY3Q3SVllR3piV242RVBsRjNfN2NWV1hXd1lVSUQ3M29sSzFwNlhtdjFTMmZ5TWN6OWZpbjJvNjdrdG1oN21FVWtYR0Z5Vnk2T25UaWotcmIxZFVsZzctNFpmdzF0WGNyRXlrckVBQmF5djJqdXlSVWdHZlQtOUF4akZxQVRxMDF1cEo4azE2MVp3blhqNlpIejJjZmt4dmdzendQOG16bjlYM0w2MHdEa2NIR0pLeHdsbVFjT3VkRnJIX24yVG1pbU5kLWE4aVE?oc=5",
+    "data": "31/08/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião amarelo"
   },
   {
     "id": "prefeituradaregiaoemitealertacontraescorpioes",
