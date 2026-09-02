@@ -65,6 +65,19 @@
     "termo_busca": "animais peçonhentos escorpião"
   },
   {
+    "id": "exposicaosobreescorpioesorientaestudantessobreprevencaodeacidentesemqueiroz",
+    "titulo": "Exposição sobre escorpiões orienta estudantes sobre prevenção de acidentes em Queiroz - Rádio Tupã",
+    "descricao": "Exposição sobre escorpiões orienta estudantes sobre prevenção de acidentes em Queiroz  Rádio Tupã",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHFxRFp4aTRpXzN4aTJ5MlBxWVBUcV91YVN1LWU3WHF6am1HZERsUTZsOVFGQWZtYWluTTV4YWxMVndNS2NpQVRiLXdDV3B3X2JicThLREE1cVZhcVdTbmIxYjA0eExEd0xGQ09hSDN5QnVEc2s3TGM1dnRuNFk4VjhubEptaUowRHc4QzNmOW9qclNTVzFBbFk2REQxT0ZTUm5wZnBKYjFyel94cmdRRnBVOUxqUQ?oc=5",
+    "data": "01/09/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Queiroz",
+    "termo_busca": "prevenção escorpiões"
+  },
+  {
     "id": "ovalemedicaedenunciadapormortedemeninapicadaporescorpiao",
     "titulo": "OVALE: Médica é denunciada por morte de menina picada por escorpião - sampi.net.br",
     "descricao": "OVALE: Médica é denunciada por morte de menina picada por escorpião  sampi.net.br",
@@ -167,6 +180,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "jp1medicaedenunciadapormortedemeninapicadaporescorpiao",
+    "titulo": "JP1: Médica é denunciada por morte de menina picada por escorpião - sampi.net.br",
+    "descricao": "JP1: Médica é denunciada por morte de menina picada por escorpião  sampi.net.br",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnM0Nms5NDM0VzVEOEVtdWdyU29XZEJ0dzBIODlqc3NpUXJVOHJEcXdMelR1RlJIa0t2dVJWdEZYSmhXWUpIQ3FfUURSOHpsUXpuVUhQUXFMLWp4MUQ4MElmSjd2QjZORzJDN2ZmcnpZc3Y3Rm9rMFRCaFNjMEJtTlNUTmpsNEZPYllDSkljdEdLc2t1b2NyQTZPTzBnQUpvdWZoaUQ3VmtLQVVSWHdNVTBFZm9Ra3RNVkRja05fblU?oc=5",
+    "data": "31/08/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
   },
   {
     "id": "prefeituradaregiaoemitealertacontraescorpioes",
