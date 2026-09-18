@@ -26,6 +26,19 @@
     "termo_busca": "alerta escorpiões"
   },
   {
+    "id": "vairolar",
+    "titulo": "Vai Rolar - Cotia sedia treinamento sobre identificação e controle de escorpiões - Site da Granja",
+    "descricao": "Vai Rolar - Cotia sedia treinamento sobre identificação e controle de escorpiões  Site da Granja",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemNhMU5tem52QnduWXVUSVFTN1JoSWd5VDV6RWdxbFoxUFJERm5TWUtXUmhMSlpxN3JJckRnNk5KblRDd0lNLWxHRUpYMjJSRk1KcnVsRHZweG1xM29XMnlScXRVc0FGdkhoN1ZlYXpJRl95MjZFUlRFd29pY1hyM0g2OFVRR1hPa2RPV1hRMkJkcGdrclczY3BRNm9TS01HQWJEWkpRTWpBTi01Wjg4RlZmdWIyUQ?oc=5",
+    "data": "18/09/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "CE",
+    "cidade": "Granja",
+    "termo_busca": "controle de escorpiões"
+  },
+  {
     "id": "palestraorientaservidoresdosaaesobreprevencaodeacidentescomescorpioes",
     "titulo": "Palestra orienta servidores do Saae sobre prevenção de acidentes com escorpiões - Mogi Mirim/SP",
     "descricao": "Palestra orienta servidores do Saae sobre prevenção de acidentes com escorpiões  Mogi Mirim/SP",
