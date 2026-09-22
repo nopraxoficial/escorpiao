@@ -26,6 +26,45 @@
     "termo_busca": "captura de escorpiões"
   },
   {
+    "id": "maisde500escorpioesamarelossaocapturadosemnavegantes",
+    "titulo": "Mais de 500 escorpiões-amarelos são capturados em Navegantes - ND Mais",
+    "descricao": "Mais de 500 escorpiões-amarelos são capturados em Navegantes  ND Mais",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0psMjlfSVVTdWhwWW9NcWx2NjFsa0R5YTFkdGNieWNCeHE0Y3dPQU1HQXlDaE9NSUlGaTFqUzZoQ0I2b2Q3eV9VQ3ZXSkNQV1ZZakNqNDBCUGhSdjl2dGQ0U2ZFVlFQY2ZOTm5Fb1kyanFkQVFKMDlDVDkyT2l4QVMyUlA5MlRWUWN6WHZPZ01YWm8?oc=5",
+    "data": "22/09/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "SC",
+    "cidade": "Navegantes",
+    "termo_busca": "escorpião amarelo"
+  },
+  {
+    "id": "maringajaregistroumaisde900acidentescomescorpioesem2026",
+    "titulo": "Maringá já registrou mais de 900 acidentes com escorpiões em 2026 - Maringá Mais",
+    "descricao": "Maringá já registrou mais de 900 acidentes com escorpiões em 2026  Maringá Mais",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2Zfa2wzdExuRG10eExpcDFCNXNwRDVNLU45aVVqTjYxTS1wei1xbWZiNnNtZmJDZUZxanU5LWJ6RVRiTXBOcVdRSDFNMDhCWWtiZFlSalhNaWJjdGJMeHVEOVBUNzVFT0R1X25YM0F2M2NHNEkwMllMblBZak1aZkgtX19Jbl9BYUZhRl9wdFAzUy1CbWxDQXJrOFh5VXkwcmdzNnp2dVoxMnR1?oc=5",
+    "data": "22/09/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "PR",
+    "cidade": "Maringá",
+    "termo_busca": "animais peçonhentos escorpião"
+  },
+  {
+    "id": "riopretotestacapturaporescorpioesduranteodiaemregiaocom171ocorrencias",
+    "titulo": "Rio Preto testa captura por escorpiões durante o dia em região com 171 ocorrências - Gazeta de Rio Preto",
+    "descricao": "Rio Preto testa captura por escorpiões durante o dia em região com 171 ocorrências  Gazeta de Rio Preto",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEh0czNXeTJhUllDMWlBOGt4akV2bld1R29waEFzWXgwT2lxUGpBeThnVExod2FhdllGZS13enV4WmJqZkNhYlc2TEVRV2JmYlFVSXF2YVhheDBvdW4wUjVKbWV5SHlYNXg5bU90MW1xRzlTUF80dDNBcEs0NGFtVmFQTm9OWEg0VUMyblZPcE5uVThkZ04ycHdkMU9wNVhQa3pKdDlNZTZkSFFwTjBqMWRNQmJNS3dQNmJV?oc=5",
+    "data": "22/09/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Rio Preto",
+    "termo_busca": "captura de escorpiões"
+  },
+  {
     "id": "institutobutantanexplicaporqueescorpiaoaparecedentrodecasanofimdatardedepoisdediaquentequalcomodoconcentraamaioriadaspicadaseohabitodecalcadoqueevitaq",
     "titulo": "Instituto Butantan explica por que escorpião aparece dentro de casa no fim da tarde depois de dia quente, qual cômodo concentra a maioria das picadas e o hábito de calçado que evita quase todos os acidentes domésticos - Olhar Digital",
     "descricao": "Instituto Butantan explica por que escorpião aparece dentro de casa no fim da tarde depois de dia quente, qual cômodo concentra a maioria das picadas e o hábito de calçado que evita quase todos os acidentes domésticos  Olhar Digital",
@@ -15520,6 +15559,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "escorpiões vigilância ambiental"
+  },
+  {
+    "id": "uvzentregainformativossobreprevencaoecontroledeescorpioesnobairroacademia",
+    "titulo": "UVZ entrega informativos sobre prevenção e controle de escorpiões no bairro Academia - Prefeitura de São José dos Pinhais - PR",
+    "descricao": "UVZ entrega informativos sobre prevenção e controle de escorpiões no bairro Academia  Prefeitura de São José dos Pinhais - PR",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEVDZXZxSHJnaVVUUEdaSVIzNGZPdWFOSGZkMkRDb3JXOXJ1Vy1pbXluY1U5MVl0WWJReFhPUUlLQWl2bTVpMXF1VnE1YldhQmJINUltaEd5VnRCZG9TclVETkd5NUpUdFdZVU1kemhJNlphU1BFRjdUM3ZpSXJWMVF0RjBlamFMZWozWlNhTHVPaXh6Mm1tOFFCdHg4VFRqY1paVEF1U2pxZ0QwY09uSA?oc=5",
+    "data": "01/02/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "PR",
+    "cidade": "Sao Jose Dos Pinhais",
+    "termo_busca": "controle de escorpiões"
   },
   {
     "id": "prefeiturareforcaorientacoesparaprevencaocontrapicadasdeescorpioeseoutrosanimais",
