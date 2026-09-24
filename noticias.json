@@ -1,5 +1,31 @@
 [
   {
+    "id": "secretariadesaudedevilapavaoalertaparacuidadoscomescorpioes",
+    "titulo": "Secretaria de Saúde de Vila Pavão alerta para cuidados com escorpiões - rede noticia es",
+    "descricao": "Secretaria de Saúde de Vila Pavão alerta para cuidados com escorpiões  rede noticia es",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXgwbzZycGhQcmxDelpFV3pXY1JnZXlYckNnZG5rVlE4NVo5MmdYbGxMUUtFVDFlcWR0aHRkS0F0OGJXWHBSUEFwUFVjQndXMzdmNjlwRi1wVnZ2VVZiX3RzZWxlWUc0X3Z5SktHZlJFZlZjSi1CcDdrYWFKaC1pNVlqZUZwNTNGdjdSMEZ3NXFOdUVodFF3aA?oc=5",
+    "data": "24/09/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "ES",
+    "cidade": "Vila Pavao",
+    "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "vilapavaoreforcacuidadosparapreveniracidentescomescorpioes",
+    "titulo": "Vila Pavão reforça cuidados para prevenir acidentes com escorpiões - Vila Notícias",
+    "descricao": "Vila Pavão reforça cuidados para prevenir acidentes com escorpiões  Vila Notícias",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWUVaWURnUzN0bmlycGpYVUpYWXNyX1hIdkdvQWpFdGpYYlJSRFRVRWJCUmNHUGM4M0VsSlhsaFRhR05BbG40Tmc1UDg5TW5QT3pfNlFqbjhSbFVkeHlOc2tpU0lPQ3ZjUUlxTGY3LVhZd3J6cE5QckIyNXFQUzNDTnRZa1Jrem1xT1poMDV4TGlzUUhIQktR?oc=5",
+    "data": "24/09/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "ES",
+    "cidade": "Vila Pavao",
+    "termo_busca": "prevenção escorpiões"
+  },
+  {
     "id": "distritofederaljaregistrou2817acidentescomescorpioes",
     "titulo": "Distrito Federal já registrou 2.817 acidentes com escorpiões - correiodamanha.com.br",
     "descricao": "Distrito Federal já registrou 2.817 acidentes com escorpiões  correiodamanha.com.br",
@@ -63,6 +89,19 @@
     "estado": "SP",
     "cidade": "Capivari",
     "termo_busca": "criança escorpião"
+  },
+  {
+    "id": "crechetemdoiscasosdecriancaspicadasporescorpiaoemumasemana",
+    "titulo": "Creche tem dois casos de crianças picadas por escorpião em uma semana - ACidade ON",
+    "descricao": "Creche tem dois casos de crianças picadas por escorpião em uma semana  ACidade ON",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUlpUDl6SmI5ODd2NnZhV2JZVmExS2ozS2w2OVRuRWlFWER3V19xNUd5bmNBNXp4WHFNa3ZNUXVXeVQwRXR5OUVveUVjOF8zbVJRdzhmczV4bko3SHkxcXllWk5PYkhnMXRVZmRCc0R2UDlrX1lNclpjMGhSZDJPTXN6RTdJejRyajdTeVJCQ2lrTmdUWDJpOS12TWljMkZXU05MNGJ2VmpIOEVWQUhaWHVjUkNsdS04ZEw2RlExLXRtY05KaUHSAcsBQVVfeXFMTUttM0lGLUx1enVtMm44OUV6Zzd2MDlFWDJRNXFMSEh0bVBxUXhHVXhIZXRTMHpWZE5sWTAwdG5qZ1NpOWdKcWx3N1RYSHN2UDlLZGJ1UUJfenhBRmhSNWxucjNHeVRNM1RaR3hZZG8zYkxoTmtHTW1ReG1NQjd5S0ZZUzExM244dTQzUl9LSEtqY2dZQUxlSFFSZ3pkM0NPOWhlMmpXRHA5d0ZXVTBLSWJITFJsVEo2TlN1OHFmZDI0cVNyTDBweWZadlU?oc=5",
+    "data": "23/09/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
   },
   {
     "id": "numerodeatendimentosdeacidentescomescorpioescresceu15em2026nohudemaringa",
@@ -232,6 +271,19 @@
     "estado": "DF",
     "cidade": "Não identificada",
     "termo_busca": "prevenção escorpiões"
+  },
+  {
+    "id": "capacitacaosobreescorpioesbiologiaacidentesecontr",
+    "titulo": "Capacitação sobre Escorpiões: Biologia, acidentes e contr... - Prefeitura Municipal de ITAPETININGA",
+    "descricao": "Capacitação sobre Escorpiões: Biologia, acidentes e contr...  Prefeitura Municipal de ITAPETININGA",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYVFUNFhUUVE3eS1WMXlyOU9FQjBGNm8xeUFhTkJyUFVCS3ZKTHBITnVlcEJRMnFwLWJUdlhJS2lqSnFHaE8tYTJTbkRBeXRfUXBHNDdZRVM0QU8yUFVaZ1EwcC1KOGJQNlhEX2FPRXNKaU84UG1pTEwxTDFfaldXcEVSbmFqY2ZMb25pVWZheXJ4QjFFVFljNk1vTS12NkJ1d01rY241anI4LW93TEFwQWpQZWNTbEVIUDllc0ZB?oc=5",
+    "data": "21/09/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "Itapetininga",
+    "termo_busca": "escorpiões prefeitura municipal"
   },
   {
     "id": "aparicaodeescorpioesaumentacomocalorsaibacomoseproteger",
