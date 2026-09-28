@@ -1,5 +1,44 @@
 [
   {
+    "id": "escorpioeslideramestatisticasdeacidentescomanimaispeconhentosempatosdeminas",
+    "titulo": "Escorpiões lideram estatísticas de acidentes com animais peçonhentos em Patos de Minas - soupatos.com.br",
+    "descricao": "Escorpiões lideram estatísticas de acidentes com animais peçonhentos em Patos de Minas  soupatos.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRERGazVaUWJVdFFfUm5pMC1GSU1lQTdYQ3VvNHMyYnFaaTV2U2ZMeUdsRkdZYjM1QmI0SDlfd1FVUTVqa3JkT0V1eXFiR21XeDlLNWFjeHNuYlV4R3I5akM2TDRwcGtFN3BQb3drMkcxS2g4M1lyM09CTF9qdThHcmN4TjdQV2lMQm0xTmlfTXZvT1UzdEZMYjRETFJqOVZJekQ1YmkwWm5QVFdseVRubQ?oc=5",
+    "data": "28/09/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Patos De Minas",
+    "termo_busca": "animais peçonhentos escorpião"
+  },
+  {
+    "id": "sustonoquintalmoradoraencontraescorpiaoescondidoemtoalhaaposfaxina",
+    "titulo": "Susto no quintal: moradora encontra escorpião escondido em toalha após faxina - Fato Paulista",
+    "descricao": "Susto no quintal: moradora encontra escorpião escondido em toalha após faxina  Fato Paulista",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkd5SnB6ZlNfYlllUmpjcXVfYXVWNFNoaldqUnBRd0N1M1dBaXh2d1NxMWw4TlE5X0NSVUszdWNnY1FreEZ1aGRXMVhQRDNqcUMxRVdYaVRxcFFya3FLOG9pUDE1TzRlZEh1aUdqdTFFLURaVjNydkF2bW5mU2hoaElSbnc?oc=5",
+    "data": "28/09/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "PE",
+    "cidade": "Paulista",
+    "termo_busca": "animais peçonhentos escorpião"
+  },
+  {
+    "id": "alertaparaoriscodeacidentescomescorpioes",
+    "titulo": "Alerta para o risco de acidentes com escorpiões - G1",
+    "descricao": "Alerta para o risco de acidentes com escorpiões  G1",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGpqRksxNGZOdlN5RGpKRFJOQTlzVEw0ekNNNXdqZndJOTBoUk5QazBic0JrMFVUN2FGNFEwVmRTeS1lMXc5SVZNVG5IRnVQX3ktMmxrLTJRVFZnSmVMSk9oUHlqRVZtSTI0c0h4dVhUeXVxaUZHS1duUFkzbnRabkZXZ2ZENDE4ZEMwUmF1dHVIU0NmZzdNRGdFMndMU3hYSnc1OGw0ZFhzQjJkZzZmOHBBcFBfR0QzYXEzdURjOUxtTXFk0gHTAUFVX3lxTE9BSzBYMXZESVdORkxvcEhUM0R3eFliVGdiNWlvUVkwenJkVDVUZlRnd0Z5QWFUbGY1N0ZVRGF2SEVLN3o3V2VBdlltN3Q1MWtyejVuRXFkRHd5WE1YVkpUYjFQNm00LWtrTUJKM3hCRDE2b3BBVUV3M3lPbzdla1NJWDhpWmRUNEFrVHd3VmIwM3k0Y19rWDd2X01uNTZ2REJHYWpFSHR5cmZ5VVRwbnd5Vlk5V1E4M1ZTVTBPb3YtSW95LXUwRnFqdFlEcS1yYUp0bjQ?oc=5",
+    "data": "28/09/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "alerta escorpiões"
+  },
+  {
     "id": "acidentescomescorpioesmobilizamacoesdevigilancianaregiao",
     "titulo": "Acidentes com escorpiões mobilizam ações de vigilância na região - jornalcruzeiro.com.br",
     "descricao": "Acidentes com escorpiões mobilizam ações de vigilância na região  jornalcruzeiro.com.br",
@@ -505,6 +544,19 @@
     "estado": "CE",
     "cidade": "Granja",
     "termo_busca": "controle de escorpiões"
+  },
+  {
+    "id": "cotiaregistraespeciedeescorpiaopoucocomumnoestadodesaopaulo",
+    "titulo": "Cotia registra espécie de escorpião pouco comum no estado de São Paulo - Cotia e Cia",
+    "descricao": "Cotia registra espécie de escorpião pouco comum no estado de São Paulo  Cotia e Cia",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWm5fd0NhUGdkUDkxSTQ4T2wwaFc0OFNPVVplLVo3RC1nakdqM0VDNjVCaVQ5dHVtN0xQS0NiWjRkWUZxckNoQXp5REQ1TkhrVDRTLTVnTzFMem9mdE84cWE2eTlrZEhzT0RtRDExX1VjT2lFdk14ZVIybTVYb2dDamsyQQ?oc=5",
+    "data": "18/09/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "termo_busca": "escorpião amarelo"
   },
   {
     "id": "palestraorientaservidoresdosaaesobreprevencaodeacidentescomescorpioes",
