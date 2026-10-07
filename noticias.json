@@ -1,5 +1,44 @@
 [
   {
+    "id": "criancaepicadaporescorpiaodentrodesaladeaulaemriopreto",
+    "titulo": "Criança é picada por escorpião dentro de sala de aula em Rio Preto - Dhoje Interior",
+    "descricao": "Criança é picada por escorpião dentro de sala de aula em Rio Preto  Dhoje Interior",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlVnN3hsMml2NV9BQ1NLSnVxYTE2UFhyVUxqeEhObUFHWHloWUljd0ZlYnN4M3A5TW5CR2c5ZzJGV1QtZ1lNc2dDaWI2TU9vbWNhR0o5WTVDc052eFViek5KdXpDTld6QnRkYmh0a180ZzUzMV9BT0RTZFBpOUlQNXJuUWRwTmgwWk56RnpWS0ZOMTdLYmR2VG9YbVItYWg3aUNtaEFiNG5DZ3BnR2gtY2UwNzVVTVE?oc=5",
+    "data": "07/10/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Rio Preto",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "camaradecampograndevotadivulgacaodelocaiscomsorocontrapicadadeescorpiao",
+    "titulo": "Câmara de Campo Grande vota divulgação de locais com soro contra picada de escorpião - A Crítica de Campo Grande",
+    "descricao": "Câmara de Campo Grande vota divulgação de locais com soro contra picada de escorpião  A Crítica de Campo Grande",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTW85VVJyTW9lM1B6M09RR2dmcVFpQ3FrRHdjZmNhSUZYbzFGcEg3bFRRTHhmdTVjQVJGSmlyWnRUOXk5MUdxX3RoaTlKTnlNeHZkWERxN2IyYUVzaFlrT0lPNl90bUk4cDlyY1VjNTNneWVQc2dLcFRGVFVBcmZVTF9RX3dOczZUOW5Z?oc=5",
+    "data": "07/10/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MS",
+    "cidade": "Campo Grande",
+    "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "tudosobresoroantiescorpionico",
+    "titulo": "Tudo sobre soro antiescorpiônico - A Crítica de Campo Grande",
+    "descricao": "Tudo sobre soro antiescorpiônico  A Crítica de Campo Grande",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lYTEwNFlyRnFSX3RPY2xORzl1NDBYNC16a3Fld1JQQm56Xzg3dnZwNnIxd3U2eEQ5TlNOTEZKNTRveE0yTXRjczdDc2xoa0tjSW0yX0JjYWp4NEk?oc=5",
+    "data": "07/10/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MS",
+    "cidade": "Campo Grande",
+    "termo_busca": "soro antiescorpiônico"
+  },
+  {
     "id": "picadadeescorpiaooquefazervejarecomendacoes",
     "titulo": "Picada de escorpião: o que fazer? Veja recomendações - O GLOBO",
     "descricao": "Picada de escorpião: o que fazer? Veja recomendações  O GLOBO",
@@ -349,6 +388,19 @@
     "estado": "SP",
     "cidade": "Sorocaba",
     "termo_busca": "morte escorpião"
+  },
+  {
+    "id": "encontrouumescorpiaoamareloemcasavigilanciaambientalorientasobrecuidadosparaevitaracidentes",
+    "titulo": "Encontrou um escorpião amarelo em casa? Vigilância Ambiental orienta sobre cuidados para evitar acidentes - Portal 24 horas",
+    "descricao": "Encontrou um escorpião amarelo em casa? Vigilância Ambiental orienta sobre cuidados para evitar acidentes  Portal 24 horas",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMzZGTjhVS3VoalNBWXpoWGtmXzN6VkhvaWJQWm1BRHA1OFJFSER6czdqQzZTS1JEMTJrc0g2RUNXUjRibFFKVVc4a0htTUFVdWpac1lqUEF4eElROEFwSE1TTy13S2NzWUpqQW9tazc2bDJFaTZXRWtGQm5HR2pqcGVNTkdyMmhKSGVMTUtrUHFSZGlGR0JTbTRPb1k4eG5BbVlmOTBXeVhGSFZjQ3BxQUtmSVBnSEZQZ2N2VmVmdUZ6ZGtTQVQzY1k1a2w5ZUFiU3hnVnN4ekR2RkJGN1pnQU1udFZsR1J1NFVNdHJGd0hZUkx5U0NjXzh4SEdpZw?oc=5",
+    "data": "29/09/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião vigilância ambiental"
   },
   {
     "id": "escorpioeslideramestatisticasdeacidentescomanimaispeconhentosempatosdeminas",
