@@ -13,6 +13,19 @@
     "termo_busca": "picada escorpião"
   },
   {
+    "id": "pacienterelatafaltadesoroantiescorpioniconohospitaldeemergenciadoagresteemarapiraca",
+    "titulo": "Paciente relata falta de soro antiescorpiônico no Hospital de Emergência do Agreste, em Arapiraca - Portal NN1",
+    "descricao": "Paciente relata falta de soro antiescorpiônico no Hospital de Emergência do Agreste, em Arapiraca  Portal NN1",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWs1bU5ZSnBTNWJFRDNwSlRXZFpDYUp1dDJpVXI3Sl9vS1Z1WGd6blRHR2tGeTBYcDJ4TFd0enF3c090OEk0ajNPOVJiLXBheHZLZlR6aE9TcjNLenhtc1AtakhidkpHYmNSUVBhYUxEbFpoVU03dENGYTdYdzV5Vjk4bU5kWWk3aFQ5Z2RnTHJ1OTFvT216LUU1enRKY3ljUlhKdDJETEx0MTBxLVJ1NXhuWHZ5Nml6SUh1ZlJvUXlGaFU?oc=5",
+    "data": "09/10/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "AL",
+    "cidade": "Arapiraca",
+    "termo_busca": "soro antiescorpiônico"
+  },
+  {
     "id": "enestaepocadoanoqueosescorpioesficammaisativosveja7cuidadosdentrodecasa",
     "titulo": "É nesta época do ano que os escorpiões ficam mais ativos; veja 7 cuidados dentro de casa - Revista Fórum",
     "descricao": "É nesta época do ano que os escorpiões ficam mais ativos; veja 7 cuidados dentro de casa  Revista Fórum",
@@ -13076,6 +13089,19 @@
     "estado": "RN",
     "cidade": "Natal",
     "termo_busca": "soro antiescorpiônico"
+  },
+  {
+    "id": "aumentodecasosdeescorpioesacendealertaemtrescoracoesemobilizavigilanciaemsaude",
+    "titulo": "Aumento de casos de escorpiões acende alerta em Três Corações e mobiliza Vigilância em Saúde - Radio Tropical – Três Corações",
+    "descricao": "Aumento de casos de escorpiões acende alerta em Três Corações e mobiliza Vigilância em Saúde  Radio Tropical – Três Corações",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlNpWUxNVmtWbkZnUWd0UWZZb0VLV01XenVhbXpPMzFTZTNTQWtzYURsRm5TWEhSTF9PRzYtWVJIUVYxM3NUbnhHUk01dm5kWUMzaG9vRDluUXItZVJ2LWt3VGE4NWZiRDMyUFJSUFBDRG1nRzFTeWQ2eU5ZU2g2aWhtSDNUSGl5b01QWUtTUUJyS3dFQVpzNjd2c2Iycmg2WE5oSWhKTVdiaVFNeUdoOTRRdUdnM3gzTmQ4?oc=5",
+    "data": "15/04/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Tres Coracoes",
+    "termo_busca": "vigilância escorpião"
   },
   {
     "id": "escorpioesdentrodecasacomoevitaracidenteseoquefazeremcasodepicada",
