@@ -1,5 +1,18 @@
 [
   {
+    "id": "quatrodiasapossocorrermeninapicadaporescorpiaopoliciaisvoltamparavisitalacompresenteemgoiania",
+    "titulo": "Quatro dias após socorrer menina picada por escorpião, policiais voltam para visitá-la com presente em Goiânia - Mais Goiás",
+    "descricao": "Quatro dias após socorrer menina picada por escorpião, policiais voltam para visitá-la com presente em Goiânia  Mais Goiás",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ3BRbUVIZ25NcTI2YmpoZ29vQXVKamhLMWdENGJJWm5JY19sQjhzZFgxNjVtVnJtQkJ4X2R5WHQtdE1NSU1OdUVidXA5bk9QUU84U0JYam95em91dkVYRjlpbzN5UEpFR0tLZy0tYzBKdi1oSnlPVVhhNzE1YzJtZlkzOVNzMVM0LVRZMFUzZFY2T0xESjFONm5oQUttdnU5M25iMDk0REoxdjdEbVBHcU0yZG1ocXNYQjZDUFhQc2d1QjN2aGZKSHNlT1ZUcVN1eVFPYzJrbFRuNDlQ?oc=5",
+    "data": "12/10/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "GO",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
     "id": "minasnovasrealizamutiraodelimpezaereforcaprevencaocontradengueeescorpioes",
     "titulo": "Minas Novas realiza mutirão de limpeza e reforça prevenção contra dengue e escorpiões - Jornal Panorama Minas",
     "descricao": "Minas Novas realiza mutirão de limpeza e reforça prevenção contra dengue e escorpiões  Jornal Panorama Minas",
@@ -388,6 +401,19 @@
     "estado": "MS",
     "cidade": "Campo Grande",
     "termo_busca": "soro antiescorpiônico"
+  },
+  {
+    "id": "criancaepicadaporescorpiaoembrinquedosdeescolaemriopreto",
+    "titulo": "Criança é picada por escorpião em brinquedos de escola em Rio Preto - G1",
+    "descricao": "Criança é picada por escorpião em brinquedos de escola em Rio Preto  G1",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObElUT0F5T1VlUGlGRjdvcVB5SmU4bWp6N0Vzb3FWcWVIX01vQmpXdkdlMFJ0VmVjWWczeUhYMXh6NXppYXJpdk5TdDEtWWZoTkRENjVDTkI2S3IwTkpma1lVcF9uVk1EU2QwUmFiV083ZFVWekt1aXVSbmtKWkZpV1JtSm9WOHRoR2FyRlhZbTFibkhSeEkzeXFJVTR6Q1JkRE9NVEo2VnVsQmxQVktEd3JmVW44blZmWlFjRmlxN3JjTzd3ZFV0WGVmdkYwNFBOUWVtX1BIcmEyMUY1b05VeG9SMi1hVnJaQVJFM3IyZkZyX01UMUQ2QzlUTWY?oc=5",
+    "data": "05/10/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Rio Preto",
+    "termo_busca": "criança escorpião"
   },
   {
     "id": "moradoresdebrumadocobramlimpezapublicaaposinvasaodeescorpioesecobras",
