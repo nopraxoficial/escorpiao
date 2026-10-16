@@ -1,5 +1,31 @@
 [
   {
+    "id": "acidentecomescorpiaoaumentanocaloreexisteumacoisaquenaosedevefazer",
+    "titulo": "Acidente com escorpião aumenta no calor, e existe uma coisa que não se deve fazer - Tua Saúde",
+    "descricao": "Acidente com escorpião aumenta no calor, e existe uma coisa que não se deve fazer  Tua Saúde",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZl9HS0xMeXNYekhoT2x4M1pmS1RfWG90bEtET2tJX3NtQVAxUFZ6c1ktcld0NjlhazJHZ25JcjlHbXZqSGdBNjBPeVc3QVpiSlBEMDF1MWFyVVBYS2x0Qjloczk4NXBjbDAzX0U5U3h2VzFlcU1UMTRrdzVETHRjOFlleUNxTE0yRE5mVnhXWWw2MkZHN3pwTXZDNzMydF91bmduN0RadERDT2pSYldId3FubnpaZUtPb0pyVjRITQ?oc=5",
+    "data": "16/10/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "BA",
+    "cidade": "Saude",
+    "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "secretariadasaudefaranovaaplicacaodevenenocontraescorpiaoamarelo",
+    "titulo": "Secretaria da Saúde fará nova aplicação de veneno contra escorpião-amarelo - Prefeitura Municipal de Esteio(RS)",
+    "descricao": "Secretaria da Saúde fará nova aplicação de veneno contra escorpião-amarelo  Prefeitura Municipal de Esteio(RS)",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaUxPM0N3WFRTZVVFSkZvSjJ3UHlyZXY2TE9nMHJrdVFGSXQwRm1jb3h3WVFsbGh2T1pDVjQ0Q195Wl9kTk5GeXg0V0p3T3MtZk5RTTRpMEFxUWMyUUZIUTlUZjg5VGJpV1pZQkMwSHlUbV9zT0FnUS1mMGRueXM5alBzSFJKWmNYLWZNeGgtMkhqQzRUanpwV3czM2J4Z243WXEtcEhTeldzM2E3cEJQMzNVUmpVa2VaNFRsZTVTUmZfS1p6aXRvU2hOTFlOck40Yy00MURRMjVtOVpseWFBQjRoN3RFNENx?oc=5",
+    "data": "16/10/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "RS",
+    "cidade": "Esteio",
+    "termo_busca": "escorpião amarelo"
+  },
+  {
     "id": "vereadoresanalisamdivulgacaodelocaiscomsoroantiescorpionicoemcampogrande",
     "titulo": "Vereadores analisam divulgação de locais com soro antiescorpiônico em Campo Grande - Capital News",
     "descricao": "Vereadores analisam divulgação de locais com soro antiescorpiônico em Campo Grande  Capital News",
