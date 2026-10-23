@@ -52,6 +52,32 @@
     "termo_busca": "infestação escorpiões"
   },
   {
+    "id": "criancapicadaporescorpiaonozoologicodebrasiliarecebealtanomesmodia",
+    "titulo": "Criança picada por escorpião no Zoológico de Brasília recebe alta no mesmo dia - ncnews.com.br",
+    "descricao": "Criança picada por escorpião no Zoológico de Brasília recebe alta no mesmo dia  ncnews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2lCN2JYazhyQ0FYRmpUUEU4c19IRHRLazNlck94Vk43RTlKUEdFNHFuZkl2QjVmU3phSi0zd2xUMWVfNzV3UW9QcUV3M3pyTTd4a01sR2dTNVYyWGxRck12akZ0eUE4UTZoQ0hfNzI2bmlXQXNtY2Zqa3VDMlI1VVU0UWxSUm9PNnk3a094MTBWaUJiSVZrYlJEQlBGcEs2TUtXeXNGM0dneFdmNFlJZzJR?oc=5",
+    "data": "23/10/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada escorpião"
+  },
+  {
+    "id": "funasaintensificaacoesdecombateeprevencaoaoescorpiaoemquirinopolis",
+    "titulo": "FUNASA INTENSIFICA AÇÕES DE COMBATE E PREVENÇÃO AO ESCORPIÃO EM QUIRINÓPOLIS - Prefeitura Municipal de Quirinópolis - GO",
+    "descricao": "FUNASA INTENSIFICA AÇÕES DE COMBATE E PREVENÇÃO AO ESCORPIÃO EM QUIRINÓPOLIS  Prefeitura Municipal de Quirinópolis - GO",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0JQNUgxbzB1blFxc0dRTVVZUVYtU1lDUV9UaEFva3E2QkpJR1FTVUVvNjdoV0c1eEZRZnRaZVF6eE8tQ2w4QXRsS2FXVVQ5N2M4NDhvMzhmMHlCcHhUSnhqa3hiUk40YzZnVVNXOURMNnk5NGUyQ2JnZzU2REhBWUxjc2NkaGhRWlJCQTVmeEVYWWNfdzViRFdmNkZ1a3VLRjFhQzROS0N1WVQ3?oc=5",
+    "data": "23/10/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "prefeitura escorpião"
+  },
+  {
     "id": "bebede1anomorreaposserpicadoporescorpiaoemmogimirim",
     "titulo": "Bebê de 1 ano morre após ser picado por escorpião em Mogi Mirim - Band",
     "descricao": "Bebê de 1 ano morre após ser picado por escorpião em Mogi Mirim  Band",
@@ -193,6 +219,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "morte escorpião"
+  },
+  {
+    "id": "bebemorreapossuspeitadepicadadeescorpiaoemmogimirim",
+    "titulo": "Bebê morre após suspeita de picada de escorpião em Mogi Mirim - sampi.net.br",
+    "descricao": "Bebê morre após suspeita de picada de escorpião em Mogi Mirim  sampi.net.br",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHNIT0wybjZxT1FZcEoxSnJuTHkxTXNBelJrdXlic2JkdVBDSFBCajVOaERmcjFIelVvUmJ5X0x0Nk9Na0h4dTdkdUx1QVJDVXRpLUo0N2FYZXB3T3JzRlozV1AwYzBLYzNYQmwxVXZVcU1BeFltQzhOS2FEbmRZWFBaZFFrVFN4TXlvYWNQNzFJdVdSNDdzSVlma2k2Mk5scWZTdFRfdzBmUmpkX05Tbk16bHhkZzNxYzBqOFlZRXMwTUU?oc=5",
+    "data": "21/10/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "picada de escorpião"
   },
   {
     "id": "mulhervaiaupaapospicadadeescorpiaoeacabaflagradacom10involucrosdecocainaemriopreto",
