@@ -273,6 +273,19 @@
     "termo_busca": "picada de escorpião"
   },
   {
+    "id": "vigilanciavistoria20caixasdetelefoniaenaoencontraescorpioesnapracadaalfandega",
+    "titulo": "Vigilância vistoria 20 caixas de telefonia e não encontra escorpiões na Praça da Alfândega - Prefeitura de Porto Alegre",
+    "descricao": "Vigilância vistoria 20 caixas de telefonia e não encontra escorpiões na Praça da Alfândega  Prefeitura de Porto Alegre",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWRicFBYYjRTdUpXSFZJVEkxSHItUUo3SGdfaHg4N1pvZHpiNEF4SlJxRHpfVU1zN2lHM056c2ZGeVAtNU9FV0Z2U180MnpTc1A2WVZnaEpVRVB0VW1Idk9jU3BnY3J2X0VuQnlHRU9nM3A4VHFta2RaZzlZeE9mZEFxRzdWcmNkQXJzSk0yOHdsOENualRhWkJHVjdhSmhWSGF2N0JpZkZmWEZfS0FIWjhiUFVZZ3dnYmh3?oc=5",
+    "data": "21/10/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião amarelo"
+  },
+  {
     "id": "mulhervaiaupaapospicadadeescorpiaoeacabaflagradacom10involucrosdecocainaemriopreto",
     "titulo": "Mulher vai à UPA após picada de escorpião e acaba flagrada com 10 invólucros de cocaína em Rio Preto - Tanabi Noticias",
     "descricao": "Mulher vai à UPA após picada de escorpião e acaba flagrada com 10 invólucros de cocaína em Rio Preto  Tanabi Noticias",
@@ -453,6 +466,19 @@
     "estado": "RS",
     "cidade": "Porto Alegre",
     "termo_busca": "escorpião amarelo"
+  },
+  {
+    "id": "criancamorrenaupadazonalesteapossuspeitadepicadadeescorpiao",
+    "titulo": "Criança morre na UPA da Zona Leste após suspeita de picada de escorpião - Portal da Cidade - Mogi Mirim / SP",
+    "descricao": "Criança morre na UPA da Zona Leste após suspeita de picada de escorpião  Portal da Cidade - Mogi Mirim / SP",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWmJLcHJKY1oxNEhRR296eHZwcXhaV2c1RE9SdzlWNDZjalVJVzBFR2RsTTBtUFVLUHBhb3dtNWExTzBwMldVVVZMcVR0d0poNFoyQjFQejlneld5dDZwaGl5YTBod3pzRWRNLUVTcWpmWksxS054NjNtaC1ETm9MbmtIUE5MUTlLYTZZaWxrMUt4VkZFMDlnYzVSVW9lRk94VFJ1YlZDSTVCTm9GRTVSWDhReGQ0eWYwaDJPQV9nUm5RclQ2ejMw?oc=5",
+    "data": "19/10/2026",
+    "tipo": "alerta",
+    "gravidade": "grave",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "soro antiescorpiônico"
   },
   {
     "id": "treslagoasregistra876acidentesporescorpiaoem2026ereforcaacoesdeprevencao",
