@@ -65,6 +65,19 @@
     "termo_busca": "infestação escorpiões"
   },
   {
+    "id": "ubatubaparticipadasemanadeenfrentamentoaoescorpionismo",
+    "titulo": "Ubatuba participa da Semana de Enfrentamento ao Escorpionismo - Prefeitura de Ubatuba",
+    "descricao": "Ubatuba participa da Semana de Enfrentamento ao Escorpionismo  Prefeitura de Ubatuba",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzBtOW5LZjg5ZHNQZDV4QlZ3SjFZbmdpQlZEcWZBQzJkejdxQ2E4NDJkVzJ6d0x5dzNJNmVDdUNyamNiYU1mZXp6OVNQdGRvbUZwUjNQWlM0NkRHSWowYVVXRXdpX3hnRHdfb0VjdzFMWTB1d01LeWZQU0N0RTV1SDFR?oc=5",
+    "data": "04/11/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpionismo"
+  },
+  {
     "id": "meninade4anosmorrevitimadepicadadeescorpiaoemmeioaaltadecasosemcidadedems",
     "titulo": "Menina de 4 anos morre vítima de picada de escorpião em meio à alta de casos em cidade de MS - G1",
     "descricao": "Menina de 4 anos morre vítima de picada de escorpião em meio à alta de casos em cidade de MS  G1",
@@ -180,6 +193,19 @@
     "estado": "Não identificado",
     "cidade": "Não identificada",
     "termo_busca": "picada de escorpião"
+  },
+  {
+    "id": "ondeoescorpiaoamareloseescondedentrodecasaoslugaresquequaseninguemverificaeoquefazeremcasodepicada",
+    "titulo": "Onde o escorpião-amarelo se esconde dentro de casa; os lugares que quase ninguém verifica e o que fazer em caso de picada - O Antagonista",
+    "descricao": "Onde o escorpião-amarelo se esconde dentro de casa; os lugares que quase ninguém verifica e o que fazer em caso de picada  O Antagonista",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdkZtay1zM2dYU2l1SWpSbmd2WEIyZUxEWVd6UDI2cGJKVlFlMzhaZmgzREwwR2tJVkVjV05RSWZNenhfQ0drMGN6NjRrRGFQQjBIWGdoZWJWclZObzhJWVU2dGdZTnRuSGlEdEp6SE9QRXM3YzBOTGoxamhEV3ZZUUw5N0twX0hqYXRveW0yVXVjUXZacURhQnJwOC1sRDlZdDNla1BjUEZvTlNSQ0Eyek1peUVTWTYzX3B3MllGeS1sbnN5cHg2WFJoRUYwZFNWeGtRcVpOd3RST3oyNU9obWF2UjNSOW03OXBiQzVWckt2R1NlejBvZTVGNTFlM0tw?oc=5",
+    "data": "03/11/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpiões Brasil"
   },
   {
     "id": "criancaficaemestadograveapospicadadeescorpiaoeetransferidadehelicopteroparahospitaldefortaleza",
