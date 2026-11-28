@@ -39,6 +39,32 @@
     "termo_busca": "alerta escorpiões"
   },
   {
+    "id": "adolescenteepicadoporescorpiaoemaedenunciapossivelinfestacaoemcondominiodeminasgerais",
+    "titulo": "Adolescente é picado por escorpião e mãe denuncia possível infestação em condomínio de Minas Gerais - Por Dentro de Tudo",
+    "descricao": "Adolescente é picado por escorpião e mãe denuncia possível infestação em condomínio de Minas Gerais  Por Dentro de Tudo",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVRmV1pZRExSMUl4ZUhmZi1BVUxlUEpuWHBGd09OaFBaYllrUGxZbEZjcG9hNmsyTGxVaENXekV0VVczZjI2Yjk3N2d4Sy1kWFF2SmoxY1NzREd3dG5LUzFBUEZQam5WZWF5UnJuMm0tN1Y5eVZ3NXBuMGNPdFkwcjB5Rk1XbTg1RTJGcFg4ZzU3RXlKZDdDNFMwYVJjdVZ4TTVlRGJxUTQ5ZFloNFl4TVBoNWR1TmdFTTBZR2FDV3RGTnFMTUZaTmtmOA?oc=5",
+    "data": "27/11/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "MG",
+    "cidade": "Não identificada",
+    "termo_busca": "infestação escorpiões"
+  },
+  {
+    "id": "prefeituraelimina6900escorpioesem2026emantemcontrolepermanentenomunicipio",
+    "titulo": "Prefeitura elimina 6.900 escorpiões em 2026 e mantém controle permanente no Município - Tá No Site",
+    "descricao": "Prefeitura elimina 6.900 escorpiões em 2026 e mantém controle permanente no Município  Tá No Site",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWJoanU1RXc3cGtoeWE5b2JnMmJ1OVVIZE52d0lTZjR5RFM3MzF5dkhzTWZyeHN5Y2J4UnZYUjdNSW5CbXpKbHNjQ2d1UlZfTG9zd1JpUmNFdDBGcnZTU1ZXRVcxZGpJcGt5NTdydERWbm1oZjE3VUNOcWVIdHpSS01HcEpHbWs4UDkwUHU1YVlTRUFuSTQ1aWpiWjZYR29lN1JaeUVjaEtodm1mRG5UcVVJZDhZZEEtWjdTNVZKWWZMcnVual9HLXp3NA?oc=5",
+    "data": "27/11/2026",
+    "tipo": "alerta",
+    "gravidade": "leve",
+    "fonte": "Google News",
+    "estado": "Não identificado",
+    "cidade": "Não identificada",
+    "termo_busca": "escorpião amarelo"
+  },
+  {
     "id": "maedenunciainfestacaodeescorpioesaposfilhoserpicadoembh",
     "titulo": "Mãe denuncia infestação de escorpiões após filho ser picado em BH - O Tempo",
     "descricao": "Mãe denuncia infestação de escorpiões após filho ser picado em BH  O Tempo",
@@ -17145,6 +17171,19 @@
     "estado": "PR",
     "cidade": "Londrina",
     "termo_busca": "prevenção escorpiões"
+  },
+  {
+    "id": "09042026",
+    "titulo": "09/04/2026 - Veja quando procurar atendimento após picada de escorpião - Secretaria de Estado da Saúde de São Paulo",
+    "descricao": "09/04/2026 - Veja quando procurar atendimento após picada de escorpião  Secretaria de Estado da Saúde de São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDNKQnEtUVNGSXQwUThpbkpyTGxiUnhxUDFuTng1d3pRZl80bnZkTHE0aWJBWEdLVDFTdkkzb0hydkx0dXlWWGF0T25YdmZ6QXRPMHdzZXI1aVp2eTVEY1ktZVdEalBkMVZ0LWtCWU0yUGtiZm1kZFdUdUlDTWotRU55TWdaSnNQTkJKSzVOZlhJcHNrYk9Ka1hfd05hS2MwMmJuNWZLNjQ4WFEwT1FmdUJQbFEzTlgwc1YtNEpsUlIxbE1tbE5UUWt5cFFWbXlWdFBBZWx3?oc=5",
+    "data": "09/04/2026",
+    "tipo": "alerta",
+    "gravidade": "moderada",
+    "fonte": "Google News",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "termo_busca": "picada de escorpião"
   },
   {
     "id": "escorpioescausaram65dosacidentescomanimaispeconhentosnobrasilem2025",
